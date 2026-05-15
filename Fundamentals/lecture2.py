@@ -59,3 +59,15 @@ else:
     print(f"{string} is not Palindrome")
 
 # wap to ask useer to enter marks if marks > 90 then excellent ,marks>80 then good,marks>50 then pass else Fail. 
+marks=int(input("Enter maeks"))
+if marks>90:
+    print("Excellent")
+elif marks>80:
+    print("good")
+elif marks>50:
+    print("pass")
+else:
+    print("Fail")
+
+
+
