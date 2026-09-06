@@ -135,8 +135,11 @@ for char in str.lower():
     freq[char] = freq[char]+1
   else:
     freq[char]=1
-
 print(freq)
+# 2nd/short technique
+from collections import Counter
+str = input('enter : ')
+print(Counter(str))
 
 
 
