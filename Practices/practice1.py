@@ -144,8 +144,38 @@ print(Counter(str))
 
 
 
+## Remove duplicates from a list without set()
+list = [1,2,2,3,4,5,5]
+
+unique = []
+for i in list:
+  if i not in unique:
+    unique.append(i)
+print(unique)
+
+# using set
+list = [1,2,2,3,4,5,5]
+set = set(list)
+print(set)
+
+
+
+
 
 ## 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
