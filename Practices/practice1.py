@@ -93,3 +93,73 @@ else:
 
 
 
+
+## calculate number of vovels and consonant in a string
+
+str = input('enter : ')
+
+vowel=0
+cons=0
+
+for i in str.lower():
+
+  if i.isalpha():
+    if i in 'aeiou':
+      vowel+=1
+    else:
+      cons+=1
+
+print('vowels =',vowel,'\nConsonant =',cons)
+
+
+
+
+
+## Reverse a string without slicing
+str = input('enter : ')
+rev = ''
+for i in str.lower():
+  rev = i+rev
+
+print(rev)
+
+
+
+
+
+## Frequency of each character in a string
+str = input('enter : ')
+freq = {}
+for char in str.lower():
+  if char in freq:
+    freq[char] = freq[char]+1
+  else:
+    freq[char]=1
+
+print(freq)
+
+
+
+
+
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
