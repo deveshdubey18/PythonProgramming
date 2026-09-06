@@ -162,7 +162,27 @@ print(set)
 
 
 
-## 
+## Find the second-largest number in a list
+numbers = [10, 20, 5, 40, 30]
+
+unique = []
+
+for num in numbers:
+    if num not in unique:
+        unique.append(num)
+
+unique.sort()
+
+print("Second largest:", unique[-2])
+
+
+
+
+
+## Find all even numbers using list comprehension
+list = [1,2,3,4,6,8,7,9]
+a = [x for x in list if x%2==0]
+print(a)
 
 
 
