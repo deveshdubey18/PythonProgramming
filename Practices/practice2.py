@@ -8,12 +8,9 @@ extend() - Add multiple elements
 insert() - Insert at position
 remove() - Remove value
 pop() - Remove by index
-sort()
-Sort list
-reverse()
-Reverse list
-index()
-Find index
-count()
-Count occurrences
+sort() - Sort list
+reverse() - Reverse list
+index() - Find index
+count() - Count occurrences
 '''
+
