@@ -1,0 +1,1001 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Nationality,Occupation,FamilySize,IsAlone,Deck,Title,AgeGroup,TravelPurpose,Survived
+6253,2,"Garcia, Dr. Ali John",female,10.0,3,2,4UNNSCO,30.28,C106,S,Finland,Nurse,6,0,C,Dr,Child,Family Visit,1
+4685,3,"Khan, Mrs. Ali Mary",female,36.7,0,0,700K08L,12.07,,S,India,Doctor,1,1,Unknown,Mrs,Adult,Immigration,1
+1732,3,"Khan, Dr. Anna David",male,21.7,1,1,MT3RVTV,36.55,,S,Lebanon,Teacher,3,0,Unknown,Dr,Adult,Vacation,0
+4743,3,"Murphy, Master. Anna James",male,33.5,3,1,BHJ8M3G,9.36,,S,India,Engineer,5,0,Unknown,Master,Adult,Family Visit,0
+4522,3,"Patel, Master. Mary Raj",male,26.0,1,1,9E6Q4KI,35.95,,S,India,Student,3,0,Unknown,Master,Adult,Immigration,0
+6341,2,"Johnson, Dr. John Emma",female,23.6,3,0,Z8QKV6Z,74.62,F35,S,India,Merchant,4,0,F,Dr,Adult,Immigration,0
+577,3,"Patel, Master. Ali Ali",male,9.2,2,2,T4CNDRW,36.61,,S,Germany,Labourer,5,0,Unknown,Master,Child,Family Visit,0
+5203,1,"Johnson, Miss. John Anna",female,24.4,1,2,DYOHJB6,179.05,F65,Q,England,Businessman,4,0,F,Miss,Adult,Immigration,1
+6364,3,"Smith, Master. Raj Ali",male,27.6,2,2,7YCYD0Z,30.64,,S,USA,Businessman,5,0,Unknown,Master,Adult,Vacation,0
+440,1,"Murphy, Master. Mary Emma",male,27.0,1,1,ZADW5V3,133.98,,C,Finland,Clerk,3,0,F,Master,Adult,Family Visit,1
+2751,2,"Smith, Dr. James Anna",male,28.0,1,0,9YHS0TK,52.68,C119,S,England,Labourer,2,0,C,Dr,Adult,Vacation,0
+7488,3,"Murphy, Dr. James Emma",male,31.3,3,2,ERHR6EP,11.1,,S,England,Nurse,6,0,Unknown,Dr,Adult,Vacation,0
+5273,2,"Singh, Mr. Raj David",male,31.0,3,2,QMHM67J,48.13,,S,Finland,Businessman,6,0,B,Mr,Adult,Immigration,1
+5654,3,"Johnson, Mr. Ali Anna",male,33.9,3,1,8RYBPLN,19.21,,S,Germany,Businessman,5,0,Unknown,Mr,Adult,Business,1
+4000,1,"Patel, Dr. James Mary",female,36.8,3,1,MVV1JQX,166.7,F36,S,Sweden,Businessman,5,0,F,Dr,Adult,Immigration,0
+6034,1,"Smith, Mr. John James",male,22.2,3,1,QP4F9FN,61.65,D136,S,England,Nurse,5,0,D,Mr,Adult,Family Visit,0
+583,1,"Martin, Dr. Anna Anna",female,24.7,1,0,0PQ6AEC,136.6,A149,S,Lebanon,Doctor,2,0,A,Dr,Adult,Immigration,0
+9931,2,"Martin, Master. Anna Emma",male,35.4,0,2,I0FRING,74.3,,S,USA,Student,3,0,Unknown,Master,Adult,Business,0
+7052,1,"Garcia, Dr. Anna James",male,12.1,2,2,FMDZ3GU,122.0,,S,France,Merchant,5,0,B,Dr,Child,Family Visit,1
+8159,3,"Singh, Dr. Raj Raj",female,32.7,2,0,M717277,9.72,,C,Italy,Teacher,3,0,Unknown,Dr,Adult,Immigration,0
+9897,2,"Patel, Mrs. David Emma",female,50.9,3,0,O0DKVRX,17.18,G125,C,France,Businessman,4,0,G,Mrs,Adult,Immigration,1
+2250,3,"Martin, Miss. John David",female,17.3,1,0,LF7Y7IG,33.89,,S,Finland,Merchant,2,0,Unknown,Miss,Teen,Immigration,0
+4641,3,"Smith, Mr. Raj Emma",male,17.2,2,1,KCVLLV4,39.42,,S,India,Teacher,4,0,Unknown,Mr,Teen,Vacation,1
+9486,3,"Garcia, Master. Emma Anna",male,39.8,2,2,IAMDP3S,29.52,,S,Italy,Merchant,5,0,Unknown,Master,Adult,Immigration,0
+4948,3,"Singh, Master. David Ali",male,5.3,0,1,JDJE3N2,11.26,,S,Finland,Doctor,2,0,Unknown,Master,Child,Business,1
+9921,1,"Smith, Mrs. Anna David",female,28.2,1,0,1CHS075,151.09,,S,Lebanon,Teacher,2,0,Unknown,Mrs,Adult,Business,1
+1964,3,"Singh, Mrs. James James",female,26.6,2,0,OK9GNNL,10.42,,S,Lebanon,Engineer,3,0,Unknown,Mrs,Adult,Vacation,1
+8244,3,"Patel, Master. Anna Emma",male,36.0,3,2,HVG97FR,38.98,,S,Italy,Businessman,6,0,Unknown,Master,Adult,Immigration,0
+6591,3,"Singh, Master. Anna Raj",male,36.1,2,1,2SWEU8G,39.9,,S,India,Clerk,4,0,Unknown,Master,Adult,Family Visit,0
+8848,2,"Singh, Dr. Raj David",male,33.2,2,0,DJ8AR9U,26.49,G37,S,India,Merchant,3,0,G,Dr,Adult,Family Visit,0
+322,3,"Patel, Dr. David David",male,19.2,2,0,5JC21SG,36.85,,S,Germany,Engineer,3,0,Unknown,Dr,Teen,Business,0
+2679,1,"Garcia, Mrs. Mary Anna",female,7.0,1,0,D4LL962,84.1,D142,C,India,Doctor,2,0,D,Mrs,Child,Family Visit,1
+4626,3,"Murphy, Master. James Ali",male,15.7,3,0,BOHP8PE,37.13,,S,USA,Nurse,4,0,Unknown,Master,Teen,Immigration,0
+4950,3,"Garcia, Master. John Ali",male,32.3,0,2,IFEO3LU,19.92,,S,Ireland,Teacher,3,0,Unknown,Master,Adult,Business,0
+8329,1,"Singh, Mrs. Ali John",female,40.6,0,2,05ELIRL,165.8,A101,S,England,Nurse,3,0,A,Mrs,Adult,Immigration,1
+3338,3,"Brown, Master. Anna Ali",male,22.1,1,0,NCVO0ZU,18.17,,Q,USA,Doctor,2,0,Unknown,Master,Adult,Business,1
+5590,3,"Johnson, Mrs. Anna Mary",female,5.4,1,1,20X52QS,26.63,,S,France,Student,3,0,Unknown,Mrs,Child,Business,0
+252,3,"Brown, Master. Anna Ali",male,67.4,2,0,7XJS45A,38.56,,C,Germany,Doctor,3,0,Unknown,Master,Senior,Vacation,0
+3974,2,"Patel, Mr. Anna Anna",male,27.9,2,0,Z0J2O9V,35.94,C91,S,Sweden,Doctor,3,0,C,Mr,Adult,Immigration,0
+6631,3,"Martin, Master. Raj David",male,13.7,1,1,Q3Z60OL,26.39,,S,Italy,Doctor,3,0,Unknown,Master,Teen,Immigration,0
+5548,1,"Johnson, Dr. Raj James",male,40.6,2,2,FHENBTD,116.73,,C,Germany,Clerk,5,0,Unknown,Dr,Adult,Family Visit,0
+36,2,"Khan, Mrs. James John",female,28.1,1,1,4DG4BX6,62.69,,S,Lebanon,Engineer,3,0,D,Mrs,Adult,Business,1
+8363,3,"Patel, Mr. James Mary",male,21.4,1,2,BHCTJ4T,31.51,,S,Sweden,Merchant,4,0,Unknown,Mr,Adult,Vacation,0
+1514,1,"Lee, Mrs. David John",female,16.7,2,2,BWUC887,199.53,E121,C,USA,Doctor,5,0,E,Mrs,Teen,Vacation,1
+9318,2,"Smith, Dr. James Emma",male,30.6,3,1,T7D2JHM,70.19,G95,S,England,Businessman,5,0,G,Dr,Adult,Immigration,0
+40,3,"Martin, Master. John Mary",male,32.9,0,0,5AZ9WTC,5.07,,S,France,Labourer,1,1,Unknown,Master,Adult,Family Visit,0
+4820,1,"Brown, Mrs. James John",female,33.1,0,0,15SYGSV,88.55,A66,S,Lebanon,Engineer,1,1,A,Mrs,Adult,Vacation,1
+3466,3,"Murphy, Miss. Ali Ali",female,29.0,2,1,T6LMO0W,11.8,,S,Italy,Businessman,4,0,Unknown,Miss,Adult,Immigration,1
+1761,1,"Garcia, Mr. James Ali",male,38.8,1,2,QP93LJY,168.62,B39,S,Finland,Nurse,4,0,B,Mr,Adult,Business,1
+2305,3,"Singh, Mr. James James",male,44.1,0,2,GWL3DQ9,26.81,,S,India,Student,3,0,Unknown,Mr,Adult,Business,0
+3724,3,"Murphy, Mr. David James",male,37.2,2,0,90N1RBU,25.31,,S,Lebanon,Student,3,0,Unknown,Mr,Adult,Business,0
+8285,3,"Singh, Miss. Anna Mary",female,36.9,3,2,524IN6L,22.19,,S,USA,Doctor,6,0,Unknown,Miss,Adult,Vacation,1
+4994,3,"Johnson, Miss. Anna Anna",female,8.0,1,2,J2IZ8WM,33.9,,C,Ireland,Student,4,0,Unknown,Miss,Child,Business,1
+8128,3,"Smith, Master. David Anna",male,13.3,3,1,V7PRN8P,17.73,,S,Italy,Businessman,5,0,Unknown,Master,Teen,Family Visit,0
+3033,3,"Lee, Mrs. Emma Ali",female,39.4,0,2,CRWBR16,20.96,,S,Ireland,Seamstress,3,0,Unknown,Mrs,Adult,Immigration,0
+7939,3,"Johnson, Dr. John Raj",female,14.7,3,2,MX4XQUC,33.41,,C,France,Seamstress,6,0,Unknown,Dr,Teen,Business,1
+3040,3,"Brown, Miss. John Emma",female,29.4,1,1,Q893X9C,20.85,,S,USA,Labourer,3,0,Unknown,Miss,Adult,Business,1
+9656,3,"Khan, Mr. James John",male,37.5,2,2,SXB63GK,8.96,,S,England,Teacher,5,0,Unknown,Mr,Adult,Business,0
+2546,1,"Martin, Master. Ali Emma",male,46.8,1,1,GHWH35H,68.54,,S,Finland,Clerk,3,0,Unknown,Master,Adult,Business,1
+2593,1,"Smith, Dr. James Mary",female,15.6,0,1,4ET4K3B,122.82,,S,England,Businessman,2,0,F,Dr,Teen,Immigration,1
+1189,3,"Lee, Dr. Raj Ali",female,44.6,0,1,3J8LLCC,31.46,,S,Germany,Businessman,2,0,Unknown,Dr,Adult,Immigration,0
+7967,3,"Murphy, Dr. Anna John",female,58.5,3,0,VQYGSFX,36.36,,S,Ireland,Businessman,4,0,Unknown,Dr,Adult,Business,0
+6078,3,"Smith, Master. David Emma",male,23.8,1,2,B1FU212,5.71,,S,Sweden,Student,4,0,Unknown,Master,Adult,Business,0
+108,3,"Garcia, Mr. Mary Anna",male,11.1,2,2,B9M753N,37.4,,Q,Ireland,Seamstress,5,0,Unknown,Mr,Child,Business,0
+1316,3,"Johnson, Miss. Mary John",female,23.4,0,1,E9WD85W,22.57,,S,Sweden,Engineer,2,0,Unknown,Miss,Adult,Vacation,0
+8188,1,"Khan, Dr. John Anna",female,16.2,0,2,NNY0XAO,191.98,,S,Germany,Teacher,3,0,Unknown,Dr,Teen,Business,0
+2754,3,"Singh, Dr. James David",male,60.7,0,1,UXMHA9U,26.54,,S,Germany,Engineer,2,0,Unknown,Dr,Senior,Family Visit,0
+9754,3,"Singh, Dr. Anna David",male,34.7,2,2,JFRIH0O,27.88,,S,Germany,Merchant,5,0,Unknown,Dr,Adult,Business,1
+6232,3,"Smith, Dr. Raj Ali",male,23.8,0,1,6YZ95VF,19.43,,S,England,Nurse,2,0,Unknown,Dr,Adult,Family Visit,0
+2877,3,"Garcia, Miss. Ali Ali",female,31.8,2,2,JSKLTY0,33.33,,S,USA,Businessman,5,0,Unknown,Miss,Adult,Vacation,0
+5324,1,"Smith, Dr. Anna Ali",female,35.8,1,0,O2H4G8K,78.54,,Q,Italy,Labourer,2,0,G,Dr,Adult,Vacation,0
+800,2,"Singh, Dr. Emma James",male,36.3,3,1,BLI4AY2,72.02,C109,C,Sweden,Labourer,5,0,C,Dr,Adult,Family Visit,0
+3571,3,"Smith, Master. Mary Raj",male,23.2,1,1,DO1XQ7M,19.38,,S,USA,Nurse,3,0,Unknown,Master,Adult,Business,0
+2895,1,"Martin, Dr. Emma Ali",female,18.0,3,2,ZME9SU8,100.59,,S,Ireland,Businessman,6,0,D,Dr,Teen,Family Visit,1
+2928,1,"Patel, Dr. Raj Raj",male,20.3,0,0,6C25SNX,139.2,,Q,France,Merchant,1,1,Unknown,Dr,Adult,Immigration,0
+8179,1,"Murphy, Dr. Emma David",male,22.9,1,2,DACJALF,131.92,A131,S,Finland,Nurse,4,0,A,Dr,Adult,Family Visit,0
+972,1,"Patel, Master. Anna Mary",male,39.4,1,2,CDN1ZDO,145.22,,S,Italy,Merchant,4,0,D,Master,Adult,Business,0
+6688,2,"Murphy, Dr. Ali Ali",female,20.5,0,0,SHCYSYK,56.17,A80,S,Italy,Merchant,1,1,A,Dr,Adult,Immigration,1
+8576,3,"Singh, Mr. Raj Anna",male,18.2,2,1,XP7QP20,27.05,,S,Italy,Student,4,0,Unknown,Mr,Teen,Vacation,0
+2021,1,"Singh, Mr. Raj Mary",male,28.3,3,2,5Y6896F,172.17,,S,Germany,Student,6,0,Unknown,Mr,Adult,Family Visit,1
+9055,3,"Lee, Master. James Ali",male,27.9,1,1,XBUJ56W,5.22,,C,France,Student,3,0,Unknown,Master,Adult,Business,0
+953,3,"Smith, Mr. James David",male,35.6,0,1,SW34MJB,10.31,,S,Finland,Doctor,2,0,Unknown,Mr,Adult,Immigration,0
+5360,3,"Singh, Dr. John Raj",female,14.6,2,2,BCS6PNP,8.08,,Q,France,Businessman,5,0,Unknown,Dr,Teen,Family Visit,1
+3858,3,"Patel, Master. John Emma",male,51.5,0,1,9OKYOG8,34.12,,S,France,Merchant,2,0,Unknown,Master,Adult,Immigration,0
+5862,3,"Johnson, Mrs. James Emma",female,33.6,3,2,F2I3GJ2,30.23,,C,Italy,Clerk,6,0,Unknown,Mrs,Adult,Business,1
+3146,3,"Martin, Dr. James Mary",female,32.7,0,0,WUWET47,27.63,,S,Finland,Engineer,1,1,Unknown,Dr,Adult,Immigration,1
+3306,3,"Khan, Miss. Mary Raj",female,52.9,1,1,BJ717Y7,23.39,,C,Finland,Teacher,3,0,Unknown,Miss,Adult,Business,0
+3007,3,"Johnson, Mrs. Anna Ali",female,23.0,2,0,0R9RM0S,11.51,,S,England,Seamstress,3,0,Unknown,Mrs,Adult,Immigration,0
+9002,3,"Smith, Dr. John David",female,43.7,1,2,VJK6Y0E,30.72,,S,Ireland,Businessman,4,0,Unknown,Dr,Adult,Vacation,1
+7771,1,"Smith, Dr. Ali Raj",female,52.6,0,2,XWB79WK,93.69,B89,S,Finland,Labourer,3,0,B,Dr,Adult,Vacation,0
+7439,3,"Smith, Master. David Emma",male,61.2,0,1,7L3TADP,22.83,,C,Sweden,Engineer,2,0,Unknown,Master,Senior,Business,0
+7943,3,"Singh, Dr. Anna Mary",female,40.3,3,2,Y3ABL0X,19.79,,S,Italy,Engineer,6,0,Unknown,Dr,Adult,Business,1
+9239,3,"Murphy, Mrs. Raj Raj",female,10.8,3,2,RYB0AT6,28.74,,S,Finland,Student,6,0,Unknown,Mrs,Child,Family Visit,1
+1057,3,"Martin, Master. James Emma",male,27.0,2,2,S15YTVT,26.72,,Q,Ireland,Seamstress,5,0,Unknown,Master,Adult,Immigration,0
+3155,3,"Khan, Master. Mary Mary",male,40.9,3,2,JHU6JQP,26.63,,C,England,Seamstress,6,0,Unknown,Master,Adult,Immigration,0
+3788,1,"Martin, Dr. Anna Ali",female,38.0,3,0,HTK4Q3A,174.1,,S,Germany,Student,4,0,A,Dr,Adult,Vacation,1
+9190,1,"Garcia, Miss. David Emma",female,28.7,0,0,PKHPGTV,110.34,F17,S,Lebanon,Seamstress,1,1,F,Miss,Adult,Immigration,1
+7826,3,"Singh, Mr. Mary John",male,59.2,1,1,E6EVENA,25.38,,C,France,Clerk,3,0,Unknown,Mr,Adult,Vacation,0
+7540,2,"Smith, Mrs. Mary Anna",female,24.6,1,1,KC6401M,54.64,,Q,Ireland,Engineer,3,0,E,Mrs,Adult,Family Visit,1
+7232,1,"Smith, Master. James Anna",male,20.8,3,2,SFK6RV9,131.63,,S,France,Merchant,6,0,Unknown,Master,Adult,Immigration,1
+765,3,"Patel, Dr. James Emma",male,0.5,2,2,FA2OML2,11.33,,S,Lebanon,Seamstress,5,0,Unknown,Dr,Child,Family Visit,0
+5020,3,"Lee, Miss. John Anna",female,13.9,0,2,DX7770M,9.13,,S,Ireland,Seamstress,3,0,Unknown,Miss,Teen,Immigration,0
+4904,3,"Lee, Miss. Raj David",female,25.4,2,0,8P40LLF,22.82,,C,Ireland,Student,3,0,Unknown,Miss,Adult,Vacation,1
+8094,3,"Martin, Mr. Anna James",male,24.0,0,1,JPR3VYW,21.13,,Q,Lebanon,Engineer,2,0,Unknown,Mr,Adult,Vacation,0
+6844,2,"Khan, Miss. Raj Emma",female,17.1,1,1,O96EDZ4,68.78,,S,Germany,Labourer,3,0,B,Miss,Teen,Immigration,0
+2166,2,"Khan, Mrs. Anna James",female,36.9,2,0,HDKF9C5,70.1,D94,S,Finland,Nurse,3,0,D,Mrs,Adult,Business,0
+1863,1,"Khan, Miss. Anna Anna",female,25.3,1,0,G13CZD6,89.58,C137,C,Ireland,Teacher,2,0,C,Miss,Adult,Business,1
+7851,2,"Singh, Mrs. Emma Mary",female,28.6,3,1,0HA22M4,71.39,,S,Lebanon,Businessman,5,0,Unknown,Mrs,Adult,Family Visit,0
+9124,2,"Singh, Master. Anna Anna",male,44.7,0,1,GQJW6YC,71.63,,S,Ireland,Student,2,0,D,Master,Adult,Vacation,1
+2341,1,"Martin, Mr. Ali Raj",male,14.6,1,2,4DL5GRM,195.86,B111,S,USA,Merchant,4,0,B,Mr,Teen,Business,1
+5528,3,"Patel, Mr. John Anna",male,22.6,1,2,IJ772UK,6.03,,S,Italy,Nurse,4,0,Unknown,Mr,Adult,Business,0
+6744,3,"Johnson, Miss. James David",female,33.6,1,2,LRG7KC0,22.64,,S,USA,Student,4,0,Unknown,Miss,Adult,Business,0
+4004,3,"Patel, Dr. Raj David",female,35.1,2,2,RTZAJ7X,14.36,,S,France,Seamstress,5,0,Unknown,Dr,Adult,Immigration,0
+1124,2,"Lee, Mrs. Ali Anna",female,33.6,0,1,T2JRR91,59.75,E33,C,Italy,Student,2,0,E,Mrs,Adult,Family Visit,0
+8710,3,"Murphy, Dr. Raj Anna",female,24.0,2,2,FPCOG8P,28.57,,S,Sweden,Nurse,5,0,Unknown,Dr,Adult,Vacation,1
+4050,3,"Smith, Master. Mary Ali",male,16.3,1,0,HNV2MPM,24.49,,Q,England,Doctor,2,0,Unknown,Master,Teen,Family Visit,0
+7641,1,"Patel, Master. Emma Anna",male,53.0,1,2,JKE0GC2,65.96,C49,S,Italy,Student,4,0,C,Master,Adult,Vacation,1
+766,1,"Patel, Dr. Anna Emma",male,7.4,1,2,Y2H4WZ7,156.16,,C,Sweden,Teacher,4,0,D,Dr,Child,Vacation,1
+2345,2,"Johnson, Master. Ali Anna",male,20.8,0,2,LTW0DRP,55.21,G148,S,Sweden,Seamstress,3,0,G,Master,Adult,Vacation,0
+4072,3,"Khan, Miss. Anna John",female,11.4,1,1,0GW60QN,16.59,,S,England,Labourer,3,0,Unknown,Miss,Child,Family Visit,1
+7217,1,"Garcia, Dr. Emma Anna",female,51.6,1,2,XOKWTZX,124.33,,Q,France,Merchant,4,0,Unknown,Dr,Adult,Family Visit,1
+4217,3,"Singh, Miss. John John",female,33.0,3,2,F93BDTP,30.98,,S,India,Engineer,6,0,Unknown,Miss,Adult,Immigration,0
+7953,2,"Garcia, Mrs. Anna Emma",female,65.6,2,2,NCAIYFM,46.23,G110,S,Italy,Engineer,5,0,G,Mrs,Senior,Vacation,1
+5971,2,"Martin, Mrs. Ali James",female,27.9,1,0,38BNE7E,57.75,,S,France,Clerk,2,0,C,Mrs,Adult,Business,1
+3351,1,"Lee, Master. Raj Anna",male,24.0,0,2,3FC7BTV,150.4,,S,Italy,Merchant,3,0,F,Master,Adult,Family Visit,1
+4696,3,"Patel, Mr. Raj John",male,51.7,1,0,EN8GEP7,34.64,,C,Finland,Labourer,2,0,Unknown,Mr,Adult,Vacation,1
+3400,2,"Johnson, Dr. Raj John",male,35.1,1,0,4G4XTY5,45.58,B130,C,England,Teacher,2,0,B,Dr,Adult,Immigration,0
+4082,3,"Garcia, Miss. John Mary",female,60.0,2,1,EDFH7Q5,39.45,,S,Finland,Clerk,4,0,Unknown,Miss,Senior,Immigration,0
+9150,3,"Murphy, Miss. David John",female,49.8,3,0,8VEM9OM,21.92,,S,Italy,Nurse,4,0,Unknown,Miss,Adult,Immigration,1
+1225,3,"Smith, Mr. Emma Anna",male,51.5,3,0,XBC2Y3E,32.48,,C,England,Engineer,4,0,Unknown,Mr,Adult,Vacation,0
+6293,2,"Brown, Miss. Ali Anna",female,32.0,1,1,D7PQRBO,36.73,,S,Sweden,Nurse,3,0,Unknown,Miss,Adult,Business,0
+3123,3,"Patel, Mrs. Mary James",female,39.3,3,1,VTW4ELH,20.81,,S,Sweden,Clerk,5,0,Unknown,Mrs,Adult,Vacation,1
+511,3,"Martin, Dr. Ali David",male,5.4,2,2,20ULGTH,25.39,,S,Lebanon,Student,5,0,Unknown,Dr,Child,Immigration,1
+5795,1,"Lee, Master. Emma Raj",male,23.3,2,0,S4K1ITI,115.23,,C,France,Labourer,3,0,Unknown,Master,Adult,Vacation,0
+8182,2,"Martin, Dr. Anna Ali",male,53.6,3,2,P0IUMIR,33.36,,S,Lebanon,Engineer,6,0,D,Dr,Adult,Family Visit,0
+9418,3,"Brown, Mr. Mary Ali",male,31.7,3,2,XXQ0E59,10.24,,S,Finland,Seamstress,6,0,Unknown,Mr,Adult,Business,0
+97,3,"Lee, Mrs. John Mary",female,34.3,2,0,TLFH89L,13.56,,S,Germany,Businessman,3,0,Unknown,Mrs,Adult,Business,1
+6682,3,"Lee, Mr. David James",male,35.2,0,2,YWF3DH3,5.12,,C,Lebanon,Student,3,0,Unknown,Mr,Adult,Immigration,1
+1513,2,"Murphy, Mr. Ali John",male,45.2,3,1,O5Y8PCW,79.5,,C,Lebanon,Businessman,5,0,D,Mr,Adult,Immigration,0
+8792,1,"Murphy, Mr. Anna John",male,2.3,0,2,D3DB2RC,84.86,E26,S,Italy,Nurse,3,0,E,Mr,Child,Business,0
+120,3,"Singh, Dr. Ali Emma",female,47.9,3,0,1CXKKQJ,12.86,,S,Lebanon,Seamstress,4,0,Unknown,Dr,Adult,Family Visit,0
+7792,3,"Smith, Mr. Mary Emma",male,43.5,0,2,88Q1GUQ,31.37,,S,Ireland,Teacher,3,0,Unknown,Mr,Adult,Immigration,1
+6518,3,"Singh, Dr. Mary Ali",female,40.8,3,1,EVEY1OR,25.17,,S,India,Doctor,5,0,Unknown,Dr,Adult,Immigration,0
+34,2,"Martin, Master. James Emma",male,19.4,0,2,DFELNAO,63.08,,S,Finland,Businessman,3,0,A,Master,Teen,Business,0
+7888,2,"Patel, Dr. James Anna",male,14.0,1,1,9AWTGOR,50.23,D133,S,Germany,Student,3,0,D,Dr,Teen,Immigration,1
+6831,1,"Brown, Master. Ali Raj",male,36.7,1,0,LER7RTL,157.14,A102,S,USA,Businessman,2,0,A,Master,Adult,Family Visit,0
+5422,1,"Murphy, Mr. John Raj",male,38.6,1,1,MXOS3G9,130.75,,S,Lebanon,Merchant,3,0,F,Mr,Adult,Immigration,0
+1069,3,"Garcia, Mrs. James John",female,46.4,3,2,OQKFQ2K,37.14,,S,India,Seamstress,6,0,Unknown,Mrs,Adult,Family Visit,0
+1348,3,"Lee, Mrs. Raj John",female,26.8,3,2,10Y0SD2,6.15,,S,Sweden,Businessman,6,0,Unknown,Mrs,Adult,Immigration,1
+4748,3,"Brown, Miss. John David",female,12.9,1,1,ZLRC58Y,13.22,,S,Sweden,Labourer,3,0,Unknown,Miss,Child,Vacation,1
+6006,3,"Garcia, Miss. Anna Raj",female,6.7,3,2,TEK5G0K,33.26,,C,USA,Businessman,6,0,Unknown,Miss,Child,Immigration,0
+6040,3,"Garcia, Mr. Mary Mary",male,39.9,2,1,WKETQW2,19.08,,S,India,Teacher,4,0,Unknown,Mr,Adult,Family Visit,0
+3818,2,"Khan, Mr. Ali John",male,41.2,2,1,QQ5BDD5,49.85,D124,Q,Finland,Labourer,4,0,D,Mr,Adult,Immigration,0
+8447,1,"Johnson, Mrs. John Emma",female,16.5,2,1,K727X12,81.32,G124,S,Ireland,Nurse,4,0,G,Mrs,Teen,Vacation,1
+5270,1,"Lee, Miss. John Emma",female,42.9,3,1,AEBERNR,171.03,B132,S,USA,Clerk,5,0,B,Miss,Adult,Vacation,1
+6898,3,"Patel, Miss. Ali Ali",female,16.3,2,1,W90EK5Q,39.11,,S,Germany,Engineer,4,0,Unknown,Miss,Teen,Immigration,1
+5310,3,"Singh, Mr. David James",male,39.1,1,0,ORE4TZ7,25.18,,S,France,Engineer,2,0,Unknown,Mr,Adult,Business,0
+32,3,"Johnson, Dr. James John",female,26.1,0,1,I4JMT3U,23.75,,S,Finland,Merchant,2,0,Unknown,Dr,Adult,Family Visit,0
+5675,3,"Lee, Mrs. James Emma",female,9.4,2,2,7NZ6PQ8,23.25,,S,Ireland,Businessman,5,0,Unknown,Mrs,Child,Business,1
+4387,3,"Lee, Dr. Ali Emma",female,43.7,0,0,9FG7T0Q,21.53,,S,Ireland,Engineer,1,1,Unknown,Dr,Adult,Vacation,1
+30,1,"Brown, Master. Emma Emma",male,34.8,3,2,HYJBL1W,135.87,B36,S,India,Student,6,0,B,Master,Adult,Business,1
+4203,3,"Martin, Mrs. David Anna",female,35.3,3,2,1YFSMAU,28.38,,S,England,Merchant,6,0,Unknown,Mrs,Adult,Vacation,0
+7508,2,"Lee, Miss. Ali David",female,35.2,3,2,AYR8B6P,33.37,,Q,Germany,Engineer,6,0,Unknown,Miss,Adult,Vacation,1
+736,3,"Brown, Dr. Ali John",female,28.7,0,0,ZMA6WJX,12.36,,S,Italy,Merchant,1,1,Unknown,Dr,Adult,Vacation,0
+2068,3,"Patel, Mrs. John David",female,13.9,1,2,1PJS24U,7.51,,S,Italy,Doctor,4,0,Unknown,Mrs,Teen,Business,0
+107,3,"Khan, Miss. David David",female,22.2,1,1,UIY72RP,39.27,,S,Sweden,Engineer,3,0,Unknown,Miss,Adult,Business,0
+9645,3,"Murphy, Dr. David James",male,37.8,0,1,Z1VFLOU,18.1,,C,Sweden,Clerk,2,0,Unknown,Dr,Adult,Immigration,0
+8895,1,"Lee, Master. John John",male,17.3,1,0,04JEBUE,176.62,,S,Germany,Teacher,2,0,A,Master,Teen,Family Visit,1
+8021,1,"Johnson, Master. Raj Ali",male,21.3,1,0,CZGOFO8,78.92,,S,Lebanon,Doctor,2,0,Unknown,Master,Adult,Business,0
+2233,1,"Martin, Mr. John Ali",male,13.9,0,1,X9YWKOQ,96.32,D37,S,England,Seamstress,2,0,D,Mr,Teen,Family Visit,1
+994,2,"Murphy, Mrs. Emma John",female,56.4,1,2,DWLXCHQ,64.41,,S,Sweden,Seamstress,4,0,F,Mrs,Adult,Immigration,1
+9413,3,"Martin, Mrs. Raj David",female,32.3,1,1,2TSKC9V,7.4,,C,Italy,Clerk,3,0,Unknown,Mrs,Adult,Family Visit,1
+7059,3,"Patel, Mrs. Ali James",female,41.1,1,2,7RRGQV2,25.78,,S,England,Student,4,0,Unknown,Mrs,Adult,Family Visit,0
+6790,3,"Khan, Master. Mary David",male,29.5,0,2,I0SHAPK,33.42,,S,Germany,Businessman,3,0,Unknown,Master,Adult,Vacation,0
+361,3,"Johnson, Master. James David",male,13.0,3,0,B4OY69Z,36.94,,S,Italy,Merchant,4,0,Unknown,Master,Teen,Business,0
+305,3,"Patel, Dr. Ali Mary",male,20.7,1,1,5MPZH5R,18.02,,S,France,Doctor,3,0,Unknown,Dr,Adult,Family Visit,0
+2628,2,"Singh, Mr. James Emma",male,37.4,2,2,FZKQO7N,70.9,F82,S,Sweden,Merchant,5,0,F,Mr,Adult,Business,1
+8966,3,"Lee, Mrs. Raj Mary",female,27.7,3,1,YUJIWBS,13.43,,S,Germany,Engineer,5,0,Unknown,Mrs,Adult,Vacation,0
+4514,3,"Brown, Master. David John",male,18.6,2,0,H7Y2VUG,6.09,,C,Sweden,Labourer,3,0,Unknown,Master,Teen,Vacation,0
+5911,3,"Smith, Mrs. David James",female,18.4,2,2,ELSAL0J,5.09,,S,England,Doctor,5,0,Unknown,Mrs,Teen,Family Visit,0
+8314,3,"Smith, Mrs. David Mary",female,5.9,0,0,0RWQK3X,39.61,,S,Ireland,Businessman,1,1,Unknown,Mrs,Child,Family Visit,1
+3101,1,"Singh, Dr. Emma David",female,26.3,0,1,7FXZQWD,165.61,F76,S,Germany,Nurse,2,0,F,Dr,Adult,Vacation,1
+5704,3,"Martin, Mrs. James David",female,24.2,0,0,HKAV0SN,37.06,,S,India,Labourer,1,1,Unknown,Mrs,Adult,Vacation,0
+3899,1,"Brown, Mr. John Ali",male,35.0,0,0,C73O45V,132.76,,C,Lebanon,Merchant,1,1,F,Mr,Adult,Business,1
+5441,3,"Johnson, Master. Mary David",male,40.3,2,2,BH4PQ7F,14.09,,Q,Sweden,Labourer,5,0,Unknown,Master,Adult,Business,0
+7931,2,"Murphy, Dr. Emma Emma",female,49.7,0,2,LIBNB0E,37.19,A56,S,Italy,Engineer,3,0,A,Dr,Adult,Vacation,0
+622,3,"Khan, Master. James Raj",male,26.2,1,1,6WXCB68,21.86,,Q,Italy,Labourer,3,0,Unknown,Master,Adult,Family Visit,0
+7236,3,"Lee, Dr. Raj Anna",female,31.9,1,1,UYANTW0,7.97,,S,France,Merchant,3,0,Unknown,Dr,Adult,Vacation,1
+2499,1,"Singh, Dr. Mary Raj",female,25.4,1,2,MNPJW97,187.38,,S,USA,Clerk,4,0,Unknown,Dr,Adult,Immigration,0
+714,3,"Khan, Miss. John Emma",female,55.8,1,0,N964GZG,16.18,,S,Ireland,Nurse,2,0,Unknown,Miss,Adult,Family Visit,1
+8404,3,"Singh, Mr. John Mary",male,12.9,0,0,MIKHRBS,16.66,,S,Italy,Student,1,1,Unknown,Mr,Child,Family Visit,0
+2856,3,"Garcia, Master. John Emma",male,22.1,1,2,NE3TM2X,9.48,,S,England,Labourer,4,0,Unknown,Master,Adult,Business,0
+4270,3,"Singh, Dr. Raj David",male,27.8,2,1,KP6JQ9L,13.2,,S,USA,Engineer,4,0,Unknown,Dr,Adult,Family Visit,0
+2909,1,"Brown, Dr. David James",male,51.5,1,2,RK510SY,169.79,,S,Finland,Clerk,4,0,A,Dr,Adult,Vacation,0
+8081,3,"Brown, Miss. Anna Ali",female,33.4,1,0,EB2ENER,18.63,,S,Sweden,Teacher,2,0,Unknown,Miss,Adult,Family Visit,1
+4517,3,"Smith, Miss. Emma Anna",female,61.4,3,0,9EDHAML,25.52,,C,Sweden,Businessman,4,0,Unknown,Miss,Senior,Vacation,0
+1262,3,"Murphy, Dr. Anna David",female,0.5,3,2,NO4CGRT,32.84,,S,Germany,Labourer,6,0,Unknown,Dr,Child,Family Visit,1
+3161,2,"Martin, Dr. Anna Emma",female,18.4,3,2,2IBF8CZ,24.24,C95,S,India,Engineer,6,0,C,Dr,Teen,Family Visit,1
+971,3,"Johnson, Mrs. Ali Anna",female,45.1,1,1,2KXQZWI,18.5,,S,Ireland,Engineer,3,0,Unknown,Mrs,Adult,Immigration,1
+3913,1,"Martin, Dr. Raj John",male,25.7,2,0,SOM5C61,114.46,,S,Lebanon,Teacher,3,0,B,Dr,Adult,Business,0
+5199,3,"Smith, Master. Anna Mary",male,27.0,2,2,WJX7IHQ,9.32,,S,Ireland,Labourer,5,0,Unknown,Master,Adult,Family Visit,0
+8847,2,"Garcia, Master. James David",male,29.4,3,1,PF9SIRX,17.91,,S,France,Engineer,5,0,E,Master,Adult,Immigration,0
+260,3,"Murphy, Mrs. Raj James",female,32.8,0,1,304VYB0,37.76,,S,France,Labourer,2,0,Unknown,Mrs,Adult,Business,1
+3791,2,"Lee, Mr. Mary Ali",male,16.1,1,2,E6H095S,35.07,,C,Germany,Engineer,4,0,A,Mr,Teen,Business,0
+9203,3,"Lee, Mr. John John",male,36.1,0,1,J8HOYUP,25.55,,C,Ireland,Merchant,2,0,Unknown,Mr,Adult,Family Visit,1
+488,3,"Murphy, Mrs. David Anna",female,13.7,3,1,9P2PQSI,20.31,,S,Italy,Engineer,5,0,Unknown,Mrs,Teen,Family Visit,1
+7908,3,"Singh, Dr. Anna Ali",male,71.8,0,2,36UPXCO,8.99,,S,Italy,Teacher,3,0,Unknown,Dr,Senior,Family Visit,0
+519,3,"Khan, Dr. Mary Ali",female,31.6,0,1,UJEAZB0,23.2,,S,USA,Businessman,2,0,Unknown,Dr,Adult,Vacation,0
+8343,3,"Martin, Master. Raj James",male,37.9,2,2,66REDK9,10.67,,S,India,Merchant,5,0,Unknown,Master,Adult,Immigration,0
+312,3,"Martin, Mrs. James James",female,28.5,1,2,ZOHWCMV,19.17,,S,Lebanon,Seamstress,4,0,Unknown,Mrs,Adult,Immigration,1
+3232,1,"Patel, Miss. David Raj",female,29.9,2,1,N55Q1U3,95.93,G108,S,Ireland,Nurse,4,0,G,Miss,Adult,Vacation,1
+7933,1,"Murphy, Dr. John John",male,29.9,1,1,Q7DV0K8,177.06,E133,C,England,Student,3,0,E,Dr,Adult,Business,1
+7458,2,"Johnson, Mr. David James",male,9.4,0,2,FMPSOFA,53.04,F66,S,Ireland,Merchant,3,0,F,Mr,Child,Family Visit,1
+9784,1,"Brown, Mrs. Ali James",female,8.9,1,1,EVCOMSL,170.41,A122,S,Finland,Nurse,3,0,A,Mrs,Child,Vacation,1
+5184,3,"Lee, Dr. Raj Ali",female,37.7,0,1,6XHZCAL,30.7,,S,Italy,Teacher,2,0,Unknown,Dr,Adult,Business,1
+8077,3,"Khan, Mr. Raj Emma",male,31.6,0,0,U92BKQ3,20.2,,S,France,Engineer,1,1,Unknown,Mr,Adult,Immigration,0
+6502,2,"Khan, Mr. Emma Anna",male,20.0,3,2,IIXV4RL,43.84,,S,France,Teacher,6,0,D,Mr,Adult,Immigration,1
+6791,1,"Garcia, Mrs. Mary Ali",female,24.7,2,0,R7JUMUX,66.64,F146,S,Germany,Merchant,3,0,F,Mrs,Adult,Vacation,1
+7773,3,"Garcia, Dr. Mary Anna",male,21.6,1,2,6UKM2EX,17.29,,S,Germany,Businessman,4,0,Unknown,Dr,Adult,Business,0
+2738,1,"Brown, Master. James James",male,0.5,3,1,BQSCPS7,121.36,,S,Lebanon,Labourer,5,0,Unknown,Master,Child,Family Visit,0
+7842,3,"Brown, Master. Raj Ali",male,44.0,3,0,CM522J2,12.89,,S,Lebanon,Clerk,4,0,Unknown,Master,Adult,Family Visit,0
+6262,3,"Johnson, Miss. Mary Anna",female,25.4,1,0,JP31XHD,20.12,,S,India,Clerk,2,0,Unknown,Miss,Adult,Vacation,1
+8206,2,"Johnson, Dr. James Anna",male,23.3,3,1,2F24DGE,30.82,,S,Italy,Seamstress,5,0,B,Dr,Adult,Vacation,1
+1248,3,"Garcia, Dr. Raj Raj",female,25.0,1,0,7TJ0OLR,17.49,,S,France,Doctor,2,0,Unknown,Dr,Adult,Family Visit,1
+9336,3,"Johnson, Mr. Anna David",male,21.1,0,1,C5Q8TXD,37.51,,S,Lebanon,Doctor,2,0,Unknown,Mr,Adult,Immigration,1
+4195,3,"Johnson, Mrs. David John",female,35.6,3,2,Z2D9TMW,10.75,,S,Finland,Merchant,6,0,Unknown,Mrs,Adult,Immigration,0
+8001,3,"Brown, Mr. Mary Raj",male,12.2,1,1,9Z2WW8T,29.94,,S,Italy,Nurse,3,0,Unknown,Mr,Child,Family Visit,0
+7378,1,"Martin, Mr. James John",male,24.8,1,2,9D5O5ZA,196.09,,C,Italy,Businessman,4,0,B,Mr,Adult,Family Visit,1
+3435,3,"Singh, Mrs. Mary Emma",female,34.9,2,1,5J1KV2C,22.33,,C,Sweden,Nurse,4,0,Unknown,Mrs,Adult,Family Visit,1
+5382,3,"Johnson, Dr. Raj Raj",male,38.5,1,0,ZQM80RH,33.41,,S,Germany,Clerk,2,0,Unknown,Dr,Adult,Immigration,0
+959,3,"Martin, Mrs. Raj David",female,23.2,1,2,WPXVTXR,32.97,,C,Ireland,Student,4,0,Unknown,Mrs,Adult,Vacation,0
+417,3,"Khan, Miss. Emma Ali",female,50.3,1,1,VKR7WHX,18.4,,S,Ireland,Nurse,3,0,Unknown,Miss,Adult,Immigration,0
+5742,3,"Khan, Mr. James James",male,60.9,3,1,C7C0UB5,18.6,,S,Germany,Student,5,0,Unknown,Mr,Senior,Family Visit,1
+6728,1,"Smith, Master. Anna Mary",male,35.4,0,1,DNM4OOQ,67.23,,S,India,Businessman,2,0,E,Master,Adult,Family Visit,1
+4382,2,"Smith, Dr. Mary Emma",female,18.9,0,1,XSDMIYC,62.64,,S,France,Clerk,2,0,G,Dr,Teen,Business,0
+5197,2,"Murphy, Mr. John David",male,25.2,2,2,UUOB2C2,71.2,,C,Lebanon,Merchant,5,0,Unknown,Mr,Adult,Business,0
+1113,3,"Brown, Mr. Emma John",male,11.4,0,0,IWMYINS,38.0,,S,France,Businessman,1,1,Unknown,Mr,Child,Business,0
+2689,3,"Patel, Dr. Ali John",female,15.5,2,1,711HXLG,32.49,,S,USA,Merchant,4,0,Unknown,Dr,Teen,Family Visit,0
+6473,1,"Martin, Master. James Ali",male,24.5,2,0,FCD73R3,79.68,A4,C,England,Doctor,3,0,A,Master,Adult,Immigration,0
+8820,3,"Murphy, Miss. James James",female,29.9,0,1,462OPHG,37.22,,S,Germany,Nurse,2,0,Unknown,Miss,Adult,Vacation,1
+7808,3,"Garcia, Miss. Mary John",female,29.5,1,1,8YJ5051,13.83,,S,Sweden,Clerk,3,0,Unknown,Miss,Adult,Business,0
+3411,1,"Murphy, Mr. Mary David",male,35.8,1,2,B4LMSER,177.65,A37,S,Lebanon,Seamstress,4,0,A,Mr,Adult,Immigration,0
+81,1,"Smith, Dr. Emma John",male,22.4,2,0,THSIK9V,86.65,,S,USA,Businessman,3,0,B,Dr,Adult,Vacation,1
+4614,1,"Martin, Miss. John Ali",female,40.6,0,2,UV5D56R,54.29,,S,Sweden,Student,3,0,B,Miss,Adult,Immigration,0
+1374,1,"Khan, Dr. John Mary",male,58.8,0,1,NX1XFIM,165.81,,S,USA,Doctor,2,0,Unknown,Dr,Adult,Immigration,1
+1510,3,"Singh, Mrs. John Mary",female,52.7,3,2,KVSHW3Z,23.64,,S,Lebanon,Seamstress,6,0,Unknown,Mrs,Adult,Family Visit,1
+6443,3,"Garcia, Dr. Ali John",female,33.4,1,0,7VZMO57,38.55,,S,Germany,Nurse,2,0,Unknown,Dr,Adult,Vacation,1
+3071,3,"Murphy, Mr. Anna Raj",male,42.3,0,0,SQYQRX8,19.37,,S,Italy,Businessman,1,1,Unknown,Mr,Adult,Family Visit,0
+3016,3,"Murphy, Mrs. James Ali",female,32.8,0,0,Q46GI9G,15.26,,S,Italy,Teacher,1,1,Unknown,Mrs,Adult,Business,0
+4823,3,"Brown, Master. Raj John",male,25.5,2,1,M171SUG,26.57,,S,Italy,Teacher,4,0,Unknown,Master,Adult,Family Visit,0
+7822,1,"Johnson, Master. Mary Anna",male,26.4,2,2,OFI26T0,80.98,C66,S,Ireland,Teacher,5,0,C,Master,Adult,Family Visit,1
+93,3,"Martin, Dr. Ali Anna",female,31.7,0,1,L8HJOPE,22.2,,S,Italy,Seamstress,2,0,Unknown,Dr,Adult,Business,1
+9421,3,"Patel, Dr. James James",male,31.3,0,2,L11GAA8,34.76,,C,Italy,Businessman,3,0,Unknown,Dr,Adult,Immigration,0
+6600,3,"Martin, Mr. James Ali",male,29.9,3,0,1G0FAFV,6.35,,S,USA,Teacher,4,0,Unknown,Mr,Adult,Family Visit,1
+4443,1,"Martin, Dr. Anna Raj",female,23.1,0,2,MUTJXCD,105.26,,S,Italy,Clerk,3,0,Unknown,Dr,Adult,Family Visit,1
+7602,2,"Singh, Master. Mary John",male,40.5,2,0,EUEB28G,66.63,A3,S,India,Labourer,3,0,A,Master,Adult,Immigration,0
+3835,3,"Patel, Master. Emma David",male,21.7,3,2,HTF76KN,23.9,,S,France,Doctor,6,0,Unknown,Master,Adult,Business,0
+9702,3,"Brown, Miss. John Raj",female,22.6,0,1,T2YJFJ2,22.64,,S,Italy,Student,2,0,Unknown,Miss,Adult,Family Visit,1
+4322,1,"Patel, Dr. James Mary",male,46.2,1,2,Q2DYVHO,62.13,,S,Italy,Student,4,0,Unknown,Dr,Adult,Immigration,0
+3394,3,"Murphy, Dr. Raj Raj",female,36.5,2,1,60FNIVG,27.08,,S,France,Teacher,4,0,Unknown,Dr,Adult,Family Visit,0
+4752,1,"Garcia, Dr. Emma David",female,6.6,2,1,XMROJIK,145.74,E27,C,Finland,Labourer,4,0,E,Dr,Child,Vacation,0
+7229,1,"Patel, Miss. Mary Emma",female,13.5,0,1,V6DEORS,66.72,D13,S,Germany,Labourer,2,0,D,Miss,Teen,Family Visit,1
+9191,2,"Murphy, Miss. Ali John",female,22.1,3,0,3P7GRJ6,61.83,,C,Italy,Nurse,4,0,B,Miss,Adult,Family Visit,0
+2361,3,"Smith, Master. David Emma",male,27.4,1,0,H0CLTTY,5.54,,S,Sweden,Businessman,2,0,Unknown,Master,Adult,Immigration,0
+1148,1,"Martin, Master. Raj Raj",male,55.1,2,2,M9NZ1BS,123.32,,S,England,Businessman,5,0,F,Master,Adult,Immigration,0
+5666,3,"Patel, Mr. Mary John",male,17.6,2,0,MG8EYPD,30.28,,S,Finland,Merchant,3,0,Unknown,Mr,Teen,Immigration,1
+8075,2,"Lee, Miss. Raj Raj",female,29.2,3,1,GOR08LJ,61.16,,S,Ireland,Nurse,5,0,A,Miss,Adult,Family Visit,1
+4943,2,"Martin, Dr. Raj Ali",male,47.6,1,1,SUNZBVS,54.44,,S,Germany,Merchant,3,0,E,Dr,Adult,Family Visit,0
+3663,1,"Lee, Miss. David John",female,27.6,1,1,LNIAGZX,58.04,,S,France,Clerk,3,0,C,Miss,Adult,Family Visit,1
+1563,3,"Patel, Dr. Anna Mary",female,30.8,3,2,37RPHPN,23.27,,S,England,Clerk,6,0,Unknown,Dr,Adult,Vacation,1
+4113,3,"Johnson, Mrs. John Emma",female,8.9,2,0,3ARQKMW,27.56,,C,France,Engineer,3,0,Unknown,Mrs,Child,Business,0
+9050,2,"Johnson, Mr. Ali Anna",male,38.1,0,2,2RRMR15,65.52,,S,Italy,Labourer,3,0,Unknown,Mr,Adult,Immigration,0
+9276,1,"Brown, Dr. James Emma",female,15.5,1,2,JNTT7CV,67.54,F138,S,Germany,Seamstress,4,0,F,Dr,Teen,Business,1
+8538,3,"Patel, Mr. John Mary",male,16.1,3,0,9E851KL,14.88,,Q,Germany,Engineer,4,0,Unknown,Mr,Teen,Business,0
+795,3,"Johnson, Mrs. Emma Anna",female,38.9,0,0,VW1WAAW,39.45,,Q,India,Nurse,1,1,Unknown,Mrs,Adult,Immigration,1
+5854,2,"Garcia, Miss. Ali James",female,37.7,0,1,IIUBLRP,50.81,E77,S,Lebanon,Doctor,2,0,E,Miss,Adult,Business,1
+7619,3,"Brown, Dr. James John",female,33.8,3,1,S2XSMNT,23.26,,C,USA,Teacher,5,0,Unknown,Dr,Adult,Business,0
+1594,2,"Lee, Dr. Anna Mary",male,47.9,0,1,OCRADQP,34.35,D26,S,USA,Businessman,2,0,D,Dr,Adult,Business,0
+7418,1,"Singh, Dr. Emma Anna",male,25.3,0,2,4XFPXKM,52.45,,S,Italy,Engineer,3,0,E,Dr,Adult,Family Visit,1
+5267,1,"Garcia, Miss. Ali Emma",female,11.4,3,1,D7TUWZO,155.19,,S,France,Doctor,5,0,C,Miss,Child,Business,1
+7147,3,"Johnson, Dr. Mary David",female,33.9,2,1,R9TRRQC,28.26,,S,Lebanon,Businessman,4,0,Unknown,Dr,Adult,Vacation,0
+89,3,"Patel, Mrs. Mary Emma",female,52.5,0,0,RC8JH98,28.54,,C,Germany,Clerk,1,1,Unknown,Mrs,Adult,Immigration,0
+8695,3,"Martin, Dr. Raj Raj",male,17.9,3,1,PD4H2UR,24.27,,S,Germany,Businessman,5,0,Unknown,Dr,Teen,Immigration,0
+9732,3,"Murphy, Dr. Anna Ali",female,35.4,1,1,AP09U71,15.56,,S,France,Clerk,3,0,Unknown,Dr,Adult,Vacation,1
+9446,3,"Smith, Dr. Ali Emma",male,30.3,2,0,PKCY7JE,14.54,,S,Ireland,Clerk,3,0,Unknown,Dr,Adult,Vacation,0
+6754,3,"Singh, Miss. David Mary",female,32.2,3,2,C1HFJ14,12.0,,S,Germany,Businessman,6,0,Unknown,Miss,Adult,Business,1
+3502,3,"Lee, Mr. Anna Anna",male,39.7,3,1,VFU9QF3,14.87,,S,Lebanon,Nurse,5,0,Unknown,Mr,Adult,Vacation,0
+2234,3,"Singh, Mrs. Raj Ali",female,31.9,0,1,IV1BYP1,31.4,,S,England,Seamstress,2,0,Unknown,Mrs,Adult,Business,0
+2803,1,"Johnson, Mrs. Ali Raj",female,26.5,0,0,YCK1INR,105.67,,C,Finland,Seamstress,1,1,G,Mrs,Adult,Family Visit,1
+4424,2,"Smith, Mrs. Ali John",female,2.8,0,2,H3O82G0,70.51,,S,Lebanon,Businessman,3,0,Unknown,Mrs,Child,Family Visit,1
+5663,1,"Murphy, Miss. Mary John",female,35.7,3,2,IOOJXLP,173.51,A69,Q,Finland,Teacher,6,0,A,Miss,Adult,Family Visit,0
+7170,3,"Brown, Master. Mary Emma",male,12.9,0,0,3MUOYCR,35.9,,S,Sweden,Engineer,1,1,Unknown,Master,Child,Family Visit,0
+8337,1,"Johnson, Miss. Ali John",female,16.1,0,2,MWQ8EPL,196.84,,S,Ireland,Doctor,3,0,D,Miss,Teen,Immigration,1
+2148,2,"Garcia, Mr. Anna James",male,41.6,2,2,H4EAK2X,62.3,D81,S,India,Engineer,5,0,D,Mr,Adult,Immigration,1
+7969,3,"Smith, Mrs. James Emma",female,16.2,3,0,1W6MFG6,28.27,,S,England,Nurse,4,0,Unknown,Mrs,Teen,Family Visit,0
+6551,3,"Martin, Miss. James Emma",female,55.4,3,1,IMIC2QQ,27.7,,C,Finland,Merchant,5,0,Unknown,Miss,Adult,Business,1
+7643,3,"Khan, Master. Emma Anna",male,49.1,0,1,QRTQTJE,12.02,,S,USA,Labourer,2,0,Unknown,Master,Adult,Vacation,0
+6164,1,"Brown, Mr. Anna Emma",male,44.5,0,0,0D4K5IA,79.67,,C,Lebanon,Teacher,1,1,Unknown,Mr,Adult,Vacation,1
+1495,3,"Brown, Master. Anna John",male,42.4,2,1,965G9B2,9.23,,C,Italy,Doctor,4,0,Unknown,Master,Adult,Family Visit,1
+7696,1,"Smith, Dr. John David",male,31.8,0,0,J2FSPV6,69.26,,S,Sweden,Seamstress,1,1,C,Dr,Adult,Immigration,1
+7094,1,"Murphy, Mrs. Mary Mary",female,42.9,0,0,MIIQY4Z,68.42,E2,S,England,Clerk,1,1,E,Mrs,Adult,Family Visit,0
+1409,3,"Martin, Mr. Ali Ali",male,0.5,0,1,KU9B0G9,36.28,,S,Ireland,Student,2,0,Unknown,Mr,Child,Vacation,0
+6691,2,"Khan, Mrs. Mary David",female,36.2,1,1,D79ID6E,61.24,,S,Sweden,Nurse,3,0,Unknown,Mrs,Adult,Immigration,1
+3401,1,"Singh, Mr. Ali Mary",male,36.5,3,1,O64TPKN,130.95,A93,S,Lebanon,Clerk,5,0,A,Mr,Adult,Business,0
+109,3,"Martin, Mrs. John Mary",female,21.0,3,1,GUC02D5,21.55,,S,Ireland,Nurse,5,0,Unknown,Mrs,Adult,Vacation,1
+5636,2,"Garcia, Miss. John Anna",female,27.9,2,0,X60ZS0L,78.62,,S,France,Doctor,3,0,D,Miss,Adult,Business,0
+8482,1,"Singh, Mrs. Mary Emma",female,42.4,2,1,010DUOP,145.71,E12,S,USA,Engineer,4,0,E,Mrs,Adult,Vacation,1
+6604,3,"Singh, Master. Anna Emma",male,25.0,3,1,0DL436B,17.96,,S,India,Seamstress,5,0,Unknown,Master,Adult,Business,0
+1091,2,"Lee, Mr. John Anna",male,38.0,1,0,Y9SS7BL,59.32,,S,France,Clerk,2,0,E,Mr,Adult,Vacation,1
+5560,3,"Lee, Mrs. David Emma",female,38.8,0,2,PISLOQO,35.6,,S,USA,Nurse,3,0,Unknown,Mrs,Adult,Family Visit,1
+9412,1,"Brown, Dr. David James",female,46.0,2,2,OOOXRSW,84.05,G137,S,England,Nurse,5,0,G,Dr,Adult,Immigration,1
+8143,3,"Khan, Master. Ali John",male,14.7,3,0,UBU27J6,10.14,,S,Germany,Doctor,4,0,Unknown,Master,Teen,Vacation,1
+8664,3,"Brown, Miss. Raj James",female,51.9,3,1,6VAHKHO,25.93,,Q,Germany,Seamstress,5,0,Unknown,Miss,Adult,Immigration,1
+6596,2,"Khan, Mrs. Mary Ali",female,21.3,2,1,PMOT1W5,66.55,C40,S,England,Businessman,4,0,C,Mrs,Adult,Family Visit,0
+624,3,"Garcia, Miss. James John",female,44.7,2,2,52Q9VAV,35.48,,S,Ireland,Clerk,5,0,Unknown,Miss,Adult,Immigration,1
+6871,1,"Lee, Dr. Anna Emma",male,24.2,2,0,ABH0RK3,110.01,,S,France,Labourer,3,0,Unknown,Dr,Adult,Vacation,0
+4814,1,"Patel, Dr. John James",female,25.4,3,0,S9N2N40,108.85,E91,S,England,Seamstress,4,0,E,Dr,Adult,Business,1
+6553,3,"Murphy, Miss. Raj John",female,39.7,0,2,SX42BD1,6.41,,S,Italy,Merchant,3,0,Unknown,Miss,Adult,Business,0
+7530,3,"Brown, Mr. John Ali",male,23.1,0,2,KEC6L3N,9.35,,C,Finland,Doctor,3,0,Unknown,Mr,Adult,Business,0
+5796,1,"Murphy, Dr. James David",male,26.3,0,0,S537Q2K,122.04,D106,C,USA,Businessman,1,1,D,Dr,Adult,Vacation,1
+7437,3,"Murphy, Mr. Mary Ali",male,38.7,1,1,S9ETVIF,27.96,,S,Italy,Seamstress,3,0,Unknown,Mr,Adult,Family Visit,0
+4218,1,"Murphy, Master. Emma James",male,18.7,0,1,91OZZ47,174.65,,S,Italy,Nurse,2,0,E,Master,Teen,Business,0
+5941,3,"Smith, Miss. Mary David",female,26.2,0,1,P8TGXKT,5.09,,S,Finland,Clerk,2,0,Unknown,Miss,Adult,Family Visit,0
+8501,1,"Martin, Dr. Raj Raj",male,18.6,1,2,LT2YA5J,155.29,A29,Q,France,Merchant,4,0,A,Dr,Teen,Vacation,0
+6429,3,"Martin, Master. James David",male,37.5,3,0,ZBWTOGZ,26.46,,S,India,Doctor,4,0,Unknown,Master,Adult,Business,0
+6827,3,"Murphy, Dr. James James",male,18.5,2,2,43EENSG,36.11,,C,Lebanon,Labourer,5,0,Unknown,Dr,Teen,Business,0
+4131,1,"Johnson, Mr. James Mary",male,23.1,1,0,RUZJ7ZB,73.45,,S,India,Merchant,2,0,A,Mr,Adult,Business,1
+7802,3,"Johnson, Dr. Ali David",female,33.7,1,2,U5A9JOM,11.07,,S,Germany,Nurse,4,0,Unknown,Dr,Adult,Vacation,0
+7754,3,"Smith, Dr. Ali Mary",male,35.8,2,0,6Z9UQ08,13.56,,S,England,Engineer,3,0,Unknown,Dr,Adult,Immigration,0
+4722,1,"Khan, Master. Raj Ali",male,39.1,0,1,CBLH2B5,161.41,,S,Italy,Engineer,2,0,A,Master,Adult,Vacation,0
+1651,3,"Lee, Dr. David David",male,28.2,0,1,8NIN95H,31.03,,S,USA,Labourer,2,0,Unknown,Dr,Adult,Family Visit,0
+4141,3,"Patel, Mrs. David David",female,37.8,3,0,J74UCXV,39.76,,S,Lebanon,Doctor,4,0,Unknown,Mrs,Adult,Family Visit,0
+1618,3,"Patel, Mr. David Raj",male,0.5,1,2,WLUAQ4Q,28.87,,C,India,Clerk,4,0,Unknown,Mr,Child,Immigration,0
+2030,1,"Singh, Miss. Emma Ali",female,2.6,1,2,WT0SJW6,189.59,B121,S,Sweden,Labourer,4,0,B,Miss,Child,Vacation,1
+8518,1,"Murphy, Master. Mary Emma",male,6.8,1,1,OPC18AR,50.54,B9,S,Sweden,Clerk,3,0,B,Master,Child,Immigration,1
+4576,1,"Khan, Miss. Raj John",female,37.7,1,0,9IMHUIM,90.46,,S,USA,Student,2,0,D,Miss,Adult,Immigration,1
+3993,3,"Murphy, Master. Ali Anna",male,21.0,2,1,2FMNMWC,21.18,,S,Finland,Clerk,4,0,Unknown,Master,Adult,Immigration,0
+7377,3,"Murphy, Miss. Ali David",female,16.3,0,2,2LSLOFT,28.14,,S,USA,Doctor,3,0,Unknown,Miss,Teen,Business,1
+6150,2,"Smith, Dr. Ali Anna",female,44.3,1,0,NK14T6Q,63.87,F28,S,Italy,Doctor,2,0,F,Dr,Adult,Family Visit,1
+4909,3,"Johnson, Dr. Raj John",female,35.0,3,0,34BQ64U,35.1,,S,England,Labourer,4,0,Unknown,Dr,Adult,Immigration,1
+5027,3,"Smith, Dr. Emma Raj",female,26.4,3,0,X8BFDLT,13.86,,Q,France,Labourer,4,0,Unknown,Dr,Adult,Vacation,1
+8261,3,"Singh, Mrs. Mary Mary",female,34.3,0,2,QWZAFE8,39.53,,S,Ireland,Student,3,0,Unknown,Mrs,Adult,Immigration,0
+4732,2,"Lee, Dr. Mary Anna",female,16.7,0,1,924OOVR,28.25,,S,France,Nurse,2,0,Unknown,Dr,Teen,Vacation,1
+7549,3,"Smith, Dr. Ali James",female,50.6,1,0,E5AMTDU,33.29,,S,India,Businessman,2,0,Unknown,Dr,Adult,Vacation,1
+8135,1,"Smith, Master. Anna Raj",male,50.9,2,1,FCCX5OK,142.8,,S,Finland,Engineer,4,0,Unknown,Master,Adult,Family Visit,0
+1607,3,"Patel, Mr. John Emma",male,33.7,0,2,PUS84I1,8.42,,S,Lebanon,Clerk,3,0,Unknown,Mr,Adult,Immigration,0
+4774,2,"Garcia, Dr. Raj Anna",female,36.6,0,1,2DZQ45V,75.57,,S,Lebanon,Clerk,2,0,F,Dr,Adult,Immigration,0
+8110,3,"Smith, Master. Ali Anna",male,26.1,0,0,ITHMY6I,33.28,,C,Finland,Engineer,1,1,Unknown,Master,Adult,Vacation,0
+6952,3,"Murphy, Master. John Ali",male,47.3,1,0,DHKATXR,17.41,,Q,Germany,Doctor,2,0,Unknown,Master,Adult,Immigration,0
+6005,3,"Khan, Mrs. Ali Ali",female,43.6,1,1,X4FEJWJ,24.99,,S,Germany,Merchant,3,0,Unknown,Mrs,Adult,Business,1
+7729,2,"Martin, Mrs. John James",female,22.9,0,0,CNX60B0,60.18,,S,Sweden,Businessman,1,1,E,Mrs,Adult,Family Visit,0
+3542,1,"Brown, Master. James Raj",male,10.2,1,0,PTDLP51,87.55,G21,S,India,Merchant,2,0,G,Master,Child,Business,1
+389,2,"Singh, Master. Mary James",male,43.8,1,1,ZVOR2UP,17.99,,C,France,Merchant,3,0,G,Master,Adult,Immigration,0
+1795,2,"Lee, Mr. Anna John",male,39.5,2,2,UBCKJ66,33.64,,S,France,Clerk,5,0,Unknown,Mr,Adult,Vacation,0
+8732,3,"Garcia, Master. Anna John",male,23.3,1,0,1OEPQIU,30.15,,Q,Lebanon,Teacher,2,0,Unknown,Master,Adult,Family Visit,0
+4920,1,"Smith, Mrs. John John",female,33.3,3,0,D18XZKW,50.49,D81,S,USA,Businessman,4,0,D,Mrs,Adult,Immigration,1
+5538,2,"Patel, Dr. David Anna",male,10.2,3,2,7DL18RW,35.91,A87,S,Finland,Student,6,0,A,Dr,Child,Business,0
+3873,3,"Johnson, Dr. Emma Raj",male,8.8,2,1,XGQIDFF,27.5,,S,USA,Student,4,0,Unknown,Dr,Child,Vacation,1
+8869,3,"Martin, Mrs. John David",female,27.6,2,0,BFC9UPZ,31.53,,S,Finland,Student,3,0,Unknown,Mrs,Adult,Vacation,1
+2255,3,"Martin, Dr. Anna Mary",male,40.4,1,0,QBT8NW9,25.62,,S,England,Doctor,2,0,Unknown,Dr,Adult,Family Visit,0
+3413,3,"Garcia, Mrs. Ali Anna",female,28.5,0,1,UFNX8AO,36.88,,S,Ireland,Doctor,2,0,Unknown,Mrs,Adult,Family Visit,0
+5460,2,"Khan, Dr. James John",female,18.9,1,1,HAPPO35,21.05,,C,USA,Seamstress,3,0,Unknown,Dr,Teen,Business,1
+4956,1,"Johnson, Miss. Emma David",female,23.1,1,1,8C3DZMI,66.64,B50,S,USA,Labourer,3,0,B,Miss,Adult,Immigration,1
+7397,3,"Patel, Mr. Mary Raj",male,8.3,3,2,DP96JF7,6.84,,Q,USA,Seamstress,6,0,Unknown,Mr,Child,Immigration,0
+5415,1,"Martin, Miss. Emma Ali",female,18.8,0,1,U5MGEYF,160.9,G149,C,USA,Engineer,2,0,G,Miss,Teen,Business,0
+7400,3,"Smith, Master. Ali David",male,20.5,0,0,UW1E4QY,17.26,,C,Sweden,Merchant,1,1,Unknown,Master,Adult,Business,0
+7415,3,"Martin, Dr. James Raj",male,33.3,3,0,8QLGUEN,27.77,,C,India,Student,4,0,Unknown,Dr,Adult,Business,1
+9101,3,"Johnson, Dr. James Mary",male,45.9,3,1,CSZTDU0,17.71,,S,Germany,Businessman,5,0,Unknown,Dr,Adult,Immigration,0
+4852,1,"Johnson, Mrs. Emma John",female,22.5,2,0,PT72XGQ,129.97,C53,S,Germany,Labourer,3,0,C,Mrs,Adult,Business,1
+2026,3,"Khan, Mrs. David Emma",female,31.0,2,2,MOIG2WP,23.41,,C,Ireland,Doctor,5,0,Unknown,Mrs,Adult,Family Visit,1
+2616,1,"Johnson, Mr. David David",male,6.1,3,1,O993BMV,161.82,E110,C,Germany,Engineer,5,0,E,Mr,Child,Business,1
+7389,2,"Garcia, Mrs. Anna Mary",female,45.5,3,0,PWYFB9J,73.39,,S,Ireland,Businessman,4,0,F,Mrs,Adult,Family Visit,1
+2927,3,"Smith, Mr. James Anna",male,33.2,1,1,PAS37ID,19.25,,S,Sweden,Doctor,3,0,Unknown,Mr,Adult,Family Visit,0
+1122,3,"Lee, Master. David Raj",male,33.7,0,1,D2UAXGU,15.77,,S,Finland,Student,2,0,Unknown,Master,Adult,Business,0
+2911,1,"Khan, Mr. Mary Raj",male,44.8,3,1,8IE9M1J,161.0,C58,Q,France,Businessman,5,0,C,Mr,Adult,Family Visit,1
+8147,3,"Smith, Dr. John Mary",male,41.7,1,1,YMF5OK7,31.57,,S,Sweden,Student,3,0,Unknown,Dr,Adult,Vacation,0
+7384,1,"Johnson, Miss. John Anna",female,24.5,1,0,3OW2JTI,155.01,,C,Ireland,Merchant,2,0,F,Miss,Adult,Family Visit,1
+3483,3,"Murphy, Miss. Mary Emma",female,38.5,0,1,1BIWHGV,22.29,,Q,Germany,Clerk,2,0,Unknown,Miss,Adult,Vacation,0
+796,3,"Brown, Dr. Ali Raj",female,11.7,0,2,VF02RFJ,18.77,,S,Italy,Labourer,3,0,Unknown,Dr,Child,Immigration,0
+1576,3,"Patel, Mr. Raj Anna",male,33.0,3,2,3IWXNUU,31.05,,S,England,Engineer,6,0,Unknown,Mr,Adult,Immigration,1
+6177,3,"Brown, Dr. John Mary",male,13.3,0,2,69M51KI,34.24,,S,Lebanon,Student,3,0,Unknown,Dr,Teen,Business,1
+6267,2,"Brown, Master. Anna Raj",male,30.9,2,2,2HWRT2X,46.16,,S,England,Clerk,5,0,G,Master,Adult,Vacation,0
+2459,3,"Johnson, Mr. Anna James",male,31.6,2,0,DC3UI0I,14.33,,S,Lebanon,Merchant,3,0,Unknown,Mr,Adult,Business,0
+3313,2,"Smith, Miss. John Anna",female,18.9,3,2,5CQ3Q5N,19.23,,S,Germany,Labourer,6,0,Unknown,Miss,Teen,Immigration,1
+1254,3,"Johnson, Mr. Raj Raj",male,20.4,3,0,MFER0RG,6.02,,S,Germany,Teacher,4,0,Unknown,Mr,Adult,Immigration,0
+6835,1,"Garcia, Dr. James Ali",male,43.7,3,0,KMWTLTI,116.32,,C,Ireland,Seamstress,4,0,C,Dr,Adult,Vacation,0
+8795,3,"Martin, Dr. Mary Ali",male,47.9,2,2,1QZ6PGZ,7.39,,S,England,Labourer,5,0,Unknown,Dr,Adult,Immigration,0
+3838,3,"Patel, Mr. Raj Raj",male,26.8,0,1,DT5TA65,7.29,,S,Ireland,Merchant,2,0,Unknown,Mr,Adult,Vacation,0
+4399,2,"Murphy, Dr. Raj Anna",male,44.0,2,1,TSNM9IV,56.67,,C,Lebanon,Seamstress,4,0,C,Dr,Adult,Vacation,0
+3596,3,"Brown, Miss. Mary Ali",female,47.5,3,1,HIDR5LM,25.45,,S,USA,Teacher,5,0,Unknown,Miss,Adult,Family Visit,1
+6622,3,"Smith, Dr. Emma David",male,38.8,0,1,5HNCJ39,10.17,,S,India,Doctor,2,0,Unknown,Dr,Adult,Business,0
+8383,3,"Lee, Miss. Raj John",female,18.7,0,1,Q2JQE92,22.14,,S,Lebanon,Labourer,2,0,Unknown,Miss,Teen,Business,0
+2125,2,"Martin, Master. David John",male,33.3,2,2,6A2AUTH,57.94,,C,India,Seamstress,5,0,G,Master,Adult,Family Visit,1
+3239,1,"Martin, Master. Anna Mary",male,27.1,3,1,95YLXUH,192.29,C20,S,England,Labourer,5,0,C,Master,Adult,Family Visit,0
+5404,3,"Johnson, Dr. Anna Ali",male,41.1,0,1,2YR28DR,15.67,,C,Lebanon,Seamstress,2,0,Unknown,Dr,Adult,Family Visit,1
+5999,1,"Lee, Master. Raj Anna",male,23.1,0,1,BQO0SYD,77.04,,S,USA,Businessman,2,0,D,Master,Adult,Immigration,0
+5939,3,"Brown, Miss. John John",female,30.1,2,0,D1Q166C,35.65,,Q,Lebanon,Merchant,3,0,Unknown,Miss,Adult,Family Visit,0
+2046,3,"Lee, Miss. Mary David",female,60.9,0,2,ISW5BUL,33.73,,S,Lebanon,Student,3,0,Unknown,Miss,Senior,Immigration,0
+1579,3,"Lee, Miss. Ali Anna",female,31.1,1,0,E25GVRK,10.53,,Q,England,Labourer,2,0,Unknown,Miss,Adult,Immigration,1
+15,1,"Garcia, Mrs. Mary James",female,27.2,3,1,ZOH00HW,155.94,G120,C,Ireland,Seamstress,5,0,G,Mrs,Adult,Vacation,0
+2674,1,"Khan, Dr. Mary James",female,38.4,2,1,RV3VNLD,167.08,,S,France,Merchant,4,0,G,Dr,Adult,Immigration,1
+7017,2,"Murphy, Dr. Raj James",male,30.6,2,1,FUCCC1G,66.03,B14,C,Italy,Engineer,4,0,B,Dr,Adult,Vacation,0
+8721,2,"Martin, Master. Emma David",male,28.5,0,2,IO2VSOW,33.94,,C,Italy,Nurse,3,0,Unknown,Master,Adult,Vacation,0
+8850,1,"Khan, Dr. James John",male,11.3,1,1,UIQA3LQ,167.83,,C,Finland,Businessman,3,0,D,Dr,Child,Immigration,1
+4813,3,"Patel, Mrs. John Anna",female,28.2,0,2,6R50RRK,31.33,,S,England,Nurse,3,0,Unknown,Mrs,Adult,Vacation,1
+1085,1,"Lee, Mrs. Emma Emma",female,29.2,3,1,9FIS2I3,98.04,,S,Germany,Seamstress,5,0,Unknown,Mrs,Adult,Immigration,1
+4984,3,"Smith, Master. David David",male,38.7,3,2,69Y073P,10.96,,S,Finland,Businessman,6,0,Unknown,Master,Adult,Business,0
+7156,3,"Patel, Dr. Anna Raj",female,32.7,3,1,DP5IXLY,32.66,,S,Sweden,Doctor,5,0,Unknown,Dr,Adult,Family Visit,1
+2885,1,"Garcia, Mrs. Anna Anna",female,48.3,0,1,3HXLZQ9,136.32,,S,Italy,Doctor,2,0,D,Mrs,Adult,Family Visit,1
+334,2,"Singh, Dr. Emma John",male,25.2,2,0,YM5JCN2,35.69,G111,S,Germany,Merchant,3,0,G,Dr,Adult,Vacation,0
+7205,3,"Khan, Miss. Raj Anna",female,15.2,0,1,NN6CKGG,37.71,,S,England,Seamstress,2,0,Unknown,Miss,Teen,Immigration,0
+4368,1,"Smith, Mrs. David Ali",female,44.9,0,2,NZI4TC7,141.98,,S,Sweden,Labourer,3,0,Unknown,Mrs,Adult,Family Visit,1
+3080,2,"Johnson, Dr. David Emma",female,32.4,1,1,2V80FTV,29.27,,S,Italy,Student,3,0,B,Dr,Adult,Family Visit,1
+7204,1,"Khan, Mrs. Mary Ali",female,27.1,2,0,95LB6A7,84.29,F90,S,Italy,Engineer,3,0,F,Mrs,Adult,Business,1
+9910,3,"Johnson, Master. Mary Raj",male,53.1,0,2,GCUHCFC,34.25,,Q,Germany,Engineer,3,0,Unknown,Master,Adult,Vacation,1
+8865,3,"Smith, Mr. Ali Anna",male,9.1,2,0,037A6W7,15.21,,C,Finland,Seamstress,3,0,Unknown,Mr,Child,Business,0
+264,2,"Garcia, Mrs. Mary James",female,27.2,0,2,XTK1M1D,32.34,C20,S,Finland,Engineer,3,0,C,Mrs,Adult,Immigration,1
+4338,2,"Murphy, Dr. David David",male,41.1,1,0,XJHXK73,41.95,A13,S,France,Seamstress,2,0,A,Dr,Adult,Immigration,0
+8896,3,"Khan, Miss. Emma Raj",female,27.2,1,0,RB8YVSH,25.75,,S,India,Teacher,2,0,Unknown,Miss,Adult,Family Visit,0
+8448,3,"Patel, Master. Anna Anna",male,33.5,1,0,3KQ524U,7.58,,S,England,Seamstress,2,0,Unknown,Master,Adult,Business,1
+5904,2,"Smith, Mr. James Emma",male,0.8,3,0,2GZSNDM,77.91,,S,Italy,Engineer,4,0,A,Mr,Child,Business,1
+1499,3,"Murphy, Dr. Mary Raj",male,27.7,2,1,64OZR0Z,26.14,,S,Finland,Seamstress,4,0,Unknown,Dr,Adult,Family Visit,0
+4191,2,"Smith, Master. John Mary",male,0.9,2,2,66KC20P,22.16,,S,India,Businessman,5,0,G,Master,Child,Immigration,0
+7486,3,"Singh, Dr. James David",female,19.7,2,2,YUI4GNY,37.92,,C,Italy,Clerk,5,0,Unknown,Dr,Teen,Immigration,0
+9644,3,"Brown, Master. Raj David",male,48.0,0,2,XV20AW0,21.7,,S,USA,Seamstress,3,0,Unknown,Master,Adult,Business,0
+8311,2,"Smith, Dr. James Mary",female,20.0,3,2,JLOIQMG,34.9,,S,Lebanon,Labourer,6,0,F,Dr,Adult,Business,0
+7591,3,"Murphy, Mrs. David Emma",female,37.9,1,1,S67QADD,28.61,,Q,Ireland,Businessman,3,0,Unknown,Mrs,Adult,Vacation,0
+501,3,"Garcia, Mr. Emma James",male,42.2,0,0,3Y5N6F1,39.89,,C,Lebanon,Nurse,1,1,Unknown,Mr,Adult,Vacation,0
+9156,3,"Murphy, Mrs. Raj John",female,23.2,3,2,FJYRQI8,28.52,,S,Finland,Teacher,6,0,Unknown,Mrs,Adult,Immigration,1
+9415,2,"Patel, Mrs. Anna Anna",female,30.2,2,2,KY169TK,57.51,A54,Q,Sweden,Seamstress,5,0,A,Mrs,Adult,Business,1
+3096,2,"Khan, Dr. Emma James",female,27.8,1,2,4DZWH6G,28.11,G89,S,Sweden,Student,4,0,G,Dr,Adult,Vacation,1
+4632,1,"Khan, Mr. Mary Raj",male,30.3,2,0,OTT8KXM,190.35,B1,C,Italy,Student,3,0,B,Mr,Adult,Family Visit,0
+368,1,"Smith, Mrs. Raj John",female,44.1,1,0,LWSE5XU,77.94,,C,France,Seamstress,2,0,F,Mrs,Adult,Immigration,1
+4059,1,"Singh, Master. John Emma",male,34.5,3,1,CMQYH8V,142.82,D126,S,France,Labourer,5,0,D,Master,Adult,Business,0
+8175,3,"Singh, Dr. Emma Emma",female,46.7,1,0,N0LBICC,12.69,,S,Italy,Nurse,2,0,Unknown,Dr,Adult,Family Visit,1
+4631,3,"Johnson, Dr. John Mary",female,23.7,0,0,85NA4OU,33.63,,S,USA,Businessman,1,1,Unknown,Dr,Adult,Family Visit,1
+6071,2,"Smith, Dr. David Emma",female,34.3,0,2,VGK9EUS,33.6,,C,England,Doctor,3,0,C,Dr,Adult,Family Visit,1
+2665,3,"Johnson, Dr. Raj David",female,28.0,2,0,WGO9XC7,6.43,,S,Germany,Seamstress,3,0,Unknown,Dr,Adult,Vacation,0
+1027,3,"Singh, Miss. John John",female,45.3,2,0,IWPWXFY,34.67,,S,Italy,Businessman,3,0,Unknown,Miss,Adult,Vacation,1
+5909,2,"Khan, Dr. Emma Raj",female,32.6,0,2,JCU3QPO,56.36,G141,C,Sweden,Teacher,3,0,G,Dr,Adult,Family Visit,1
+5051,2,"Khan, Mr. Anna Anna",male,32.1,0,2,G7QD5KA,17.02,,S,Germany,Merchant,3,0,C,Mr,Adult,Immigration,1
+6329,3,"Johnson, Mrs. Mary Ali",female,36.7,3,2,YMQGHPE,30.81,,S,France,Clerk,6,0,Unknown,Mrs,Adult,Immigration,0
+9734,3,"Patel, Master. Anna David",male,25.9,0,0,FFQW7O9,25.44,,S,Ireland,Clerk,1,1,Unknown,Master,Adult,Vacation,0
+1692,1,"Brown, Miss. Anna James",female,28.1,1,2,G8EN6NC,134.36,,S,France,Seamstress,4,0,E,Miss,Adult,Vacation,1
+674,3,"Khan, Dr. John Raj",female,24.2,1,2,IK523G8,11.94,,S,Sweden,Seamstress,4,0,Unknown,Dr,Adult,Business,0
+5573,1,"Garcia, Dr. Ali Anna",male,23.2,1,0,6SWFBX5,129.97,,C,USA,Doctor,2,0,B,Dr,Adult,Family Visit,0
+5767,2,"Patel, Mr. Ali Raj",male,25.8,0,0,B3L5Q1O,59.21,,S,France,Doctor,1,1,G,Mr,Adult,Immigration,1
+5157,1,"Patel, Mrs. Mary Mary",female,42.3,3,2,AKQ9QPH,146.5,,S,USA,Teacher,6,0,E,Mrs,Adult,Family Visit,1
+734,3,"Singh, Master. Emma Emma",male,22.5,1,2,728DLW0,27.96,,S,Italy,Labourer,4,0,Unknown,Master,Adult,Family Visit,0
+3527,2,"Smith, Miss. Raj Mary",female,15.2,0,1,SZSP8BF,74.03,,C,Germany,Businessman,2,0,G,Miss,Teen,Business,1
+569,3,"Lee, Mrs. John John",female,48.6,0,0,C54ECSJ,13.1,,S,Germany,Nurse,1,1,Unknown,Mrs,Adult,Immigration,1
+9188,3,"Murphy, Mrs. Mary Emma",female,45.1,1,0,OIWLMVZ,33.95,,S,Finland,Businessman,2,0,Unknown,Mrs,Adult,Business,1
+2923,3,"Murphy, Master. Emma Emma",male,52.3,1,1,7OI0S5Q,15.1,,S,England,Labourer,3,0,Unknown,Master,Adult,Vacation,0
+7912,3,"Martin, Mrs. David Raj",female,19.9,1,2,4KWEU1E,19.09,,S,Ireland,Merchant,4,0,Unknown,Mrs,Teen,Immigration,0
+1559,1,"Martin, Dr. Raj Anna",male,50.5,0,1,0N264MQ,56.05,,S,India,Businessman,2,0,Unknown,Dr,Adult,Vacation,0
+102,3,"Khan, Dr. Raj Raj",female,21.7,0,2,DLM0B60,17.24,,Q,USA,Businessman,3,0,Unknown,Dr,Adult,Family Visit,1
+3008,1,"Johnson, Mr. John Raj",male,70.0,1,1,WXB7ZTX,120.77,A130,S,India,Labourer,3,0,A,Mr,Senior,Family Visit,0
+7202,3,"Patel, Dr. Emma Emma",female,27.2,1,0,IUVK65J,17.85,,S,Italy,Student,2,0,Unknown,Dr,Adult,Immigration,0
+304,3,"Garcia, Dr. Ali Ali",female,11.7,1,1,CLINA9M,6.19,,C,Finland,Engineer,3,0,Unknown,Dr,Child,Family Visit,1
+77,3,"Martin, Miss. Ali Anna",female,36.5,2,1,H9CRTHK,35.9,,Q,England,Labourer,4,0,Unknown,Miss,Adult,Vacation,0
+6755,2,"Lee, Miss. Emma David",female,9.8,2,0,TEMQ0TL,23.28,G66,S,India,Teacher,3,0,G,Miss,Child,Immigration,1
+8630,3,"Brown, Dr. Emma David",male,34.1,2,0,I08WR2J,18.41,,S,England,Doctor,3,0,Unknown,Dr,Adult,Immigration,1
+1209,2,"Patel, Miss. Ali Emma",female,40.9,0,2,CIWB4WK,32.47,B126,Q,Germany,Teacher,3,0,B,Miss,Adult,Business,1
+7743,2,"Johnson, Dr. Mary Anna",female,14.7,2,1,FCFURRM,74.19,C63,S,Sweden,Teacher,4,0,C,Dr,Teen,Family Visit,1
+8215,3,"Murphy, Master. James John",male,36.5,3,1,1KXRZOP,26.52,,S,Italy,Merchant,5,0,Unknown,Master,Adult,Business,0
+8945,3,"Murphy, Master. Anna John",male,25.0,3,2,LEYNAJ2,21.61,,S,Germany,Seamstress,6,0,Unknown,Master,Adult,Immigration,1
+8414,3,"Khan, Miss. Anna Emma",female,30.3,0,0,0B2GAOW,34.34,,S,India,Doctor,1,1,Unknown,Miss,Adult,Immigration,1
+1776,1,"Johnson, Mrs. John Ali",female,27.9,3,0,FUMMM41,199.93,B63,S,India,Clerk,4,0,B,Mrs,Adult,Immigration,0
+3474,3,"Lee, Mr. Mary James",male,30.9,0,0,NO150ER,28.14,,S,Germany,Merchant,1,1,Unknown,Mr,Adult,Immigration,0
+484,3,"Martin, Dr. Emma Ali",female,45.7,2,2,22HBO5Q,25.22,,S,Ireland,Engineer,5,0,Unknown,Dr,Adult,Immigration,0
+2190,1,"Brown, Master. Anna John",male,14.4,3,2,PJA7CES,107.91,,Q,Germany,Businessman,6,0,E,Master,Teen,Family Visit,0
+347,3,"Johnson, Miss. Emma Emma",female,24.0,1,2,UE7ZDE0,31.37,,S,Lebanon,Seamstress,4,0,Unknown,Miss,Adult,Immigration,0
+5482,1,"Murphy, Dr. Emma Ali",female,36.2,3,1,YL0E1KX,54.88,D11,S,Sweden,Seamstress,5,0,D,Dr,Adult,Vacation,1
+8362,3,"Singh, Mr. David James",male,30.6,2,1,PF32X4R,27.54,,Q,Italy,Student,4,0,Unknown,Mr,Adult,Vacation,0
+1473,1,"Garcia, Dr. John Mary",female,48.6,1,2,TKXJS3B,95.3,G110,C,Lebanon,Student,4,0,G,Dr,Adult,Business,1
+5101,1,"Khan, Mr. Emma James",male,38.3,3,2,PT7EF5D,103.1,,C,Sweden,Nurse,6,0,B,Mr,Adult,Immigration,0
+6766,1,"Singh, Dr. Mary John",male,30.2,2,1,YZ2XO9M,142.93,F12,S,Ireland,Engineer,4,0,F,Dr,Adult,Family Visit,1
+8707,1,"Smith, Dr. Mary David",female,19.6,1,1,MLZC686,160.76,A120,S,England,Engineer,3,0,A,Dr,Teen,Immigration,1
+4930,3,"Patel, Mr. Mary Mary",male,26.9,3,2,14HGDE1,32.35,,C,England,Clerk,6,0,Unknown,Mr,Adult,Immigration,0
+6330,3,"Lee, Mrs. John Ali",female,47.2,2,2,K0VSEUN,25.17,,S,Italy,Businessman,5,0,Unknown,Mrs,Adult,Family Visit,0
+2610,2,"Lee, Master. David James",male,31.6,0,2,FEPA0DC,77.92,D26,S,Lebanon,Nurse,3,0,D,Master,Adult,Family Visit,1
+4,2,"Murphy, Dr. Emma John",female,38.6,1,0,QFW2X6G,35.72,,S,England,Labourer,2,0,B,Dr,Adult,Family Visit,1
+2214,1,"Singh, Mr. Emma Ali",male,20.1,3,2,T4JLBOT,63.51,,S,Lebanon,Seamstress,6,0,B,Mr,Adult,Vacation,1
+4828,3,"Brown, Dr. Raj Raj",male,39.8,2,0,LYL8M3E,29.45,,S,Germany,Engineer,3,0,Unknown,Dr,Adult,Vacation,0
+857,3,"Murphy, Master. Emma Raj",male,69.5,1,1,ZH78PJ7,29.53,,Q,Ireland,Seamstress,3,0,Unknown,Master,Senior,Business,1
+6978,2,"Johnson, Master. Mary David",male,27.4,1,1,NBPWWHZ,76.81,,C,India,Clerk,3,0,B,Master,Adult,Business,0
+5886,1,"Garcia, Dr. Ali John",female,29.4,1,0,1MTBIVA,98.57,G42,Q,France,Clerk,2,0,G,Dr,Adult,Business,0
+625,3,"Patel, Mrs. Raj Emma",female,21.7,0,2,7NZNWYV,12.83,,S,Lebanon,Student,3,0,Unknown,Mrs,Adult,Business,0
+291,3,"Patel, Mrs. Anna David",female,39.3,2,0,RTEX1TX,14.46,,C,Finland,Doctor,3,0,Unknown,Mrs,Adult,Vacation,0
+2019,3,"Patel, Mr. James Ali",male,35.4,3,2,Z9H33G6,27.04,,S,Sweden,Teacher,6,0,Unknown,Mr,Adult,Vacation,0
+669,3,"Johnson, Mr. David Mary",male,29.5,3,2,75PEO5Y,13.92,,S,France,Teacher,6,0,Unknown,Mr,Adult,Vacation,0
+8922,2,"Murphy, Master. Mary Mary",male,41.2,1,1,TMWBIIU,36.68,G115,S,USA,Clerk,3,0,G,Master,Adult,Family Visit,0
+8265,2,"Brown, Dr. Raj Mary",male,54.2,1,2,0DP54FE,32.42,,C,France,Labourer,4,0,C,Dr,Adult,Immigration,0
+9697,3,"Lee, Mrs. Ali James",female,51.7,0,0,8COK8KK,14.07,,S,India,Student,1,1,Unknown,Mrs,Adult,Immigration,1
+1632,1,"Lee, Mr. Mary Mary",male,40.8,2,2,YEL2W0U,167.44,,S,Ireland,Nurse,5,0,G,Mr,Adult,Vacation,0
+5171,3,"Patel, Miss. Emma Emma",female,53.8,2,1,MGD0JM0,30.11,,S,India,Clerk,4,0,Unknown,Miss,Adult,Immigration,0
+7206,3,"Singh, Mr. Ali David",male,33.7,3,1,RBIIN1U,38.52,,S,Germany,Engineer,5,0,Unknown,Mr,Adult,Vacation,0
+2523,3,"Singh, Mr. James John",male,25.5,1,2,M9JHBTH,8.89,,S,India,Doctor,4,0,Unknown,Mr,Adult,Business,0
+2216,1,"Smith, Dr. David John",male,39.2,3,1,MMQTRLX,188.03,,S,India,Doctor,5,0,B,Dr,Adult,Immigration,1
+6969,3,"Khan, Miss. James Raj",female,12.2,0,1,42RYI1C,6.65,,S,England,Labourer,2,0,Unknown,Miss,Child,Immigration,0
+6497,3,"Khan, Dr. David James",male,30.4,0,0,H0XVAH4,34.97,,S,Sweden,Labourer,1,1,Unknown,Dr,Adult,Family Visit,0
+6214,3,"Martin, Mr. John Emma",male,0.5,3,2,A63PI08,19.44,,S,Sweden,Student,6,0,Unknown,Mr,Child,Family Visit,0
+7033,1,"Murphy, Dr. Anna Ali",male,35.1,2,1,8138YW2,112.71,G139,S,France,Doctor,4,0,G,Dr,Adult,Family Visit,0
+7421,2,"Smith, Miss. Emma Emma",female,35.9,0,0,QJG4WP3,71.22,B131,C,Finland,Clerk,1,1,B,Miss,Adult,Vacation,0
+1108,3,"Lee, Dr. John Ali",female,21.7,2,1,KVTSPNH,35.19,,S,Germany,Doctor,4,0,Unknown,Dr,Adult,Vacation,0
+451,2,"Khan, Dr. Anna Mary",male,41.0,3,1,7A9E1WN,45.18,,S,Lebanon,Seamstress,5,0,A,Dr,Adult,Vacation,0
+6290,2,"Murphy, Master. David Ali",male,53.7,1,2,NGJ7NF6,68.2,E69,S,France,Doctor,4,0,E,Master,Adult,Family Visit,0
+9967,3,"Garcia, Mrs. Ali James",female,47.1,0,2,KK6W5R8,5.25,,S,England,Seamstress,3,0,Unknown,Mrs,Adult,Family Visit,1
+136,3,"Patel, Mr. Emma John",male,27.0,3,1,SMPXBBA,17.54,,S,England,Student,5,0,Unknown,Mr,Adult,Vacation,1
+1786,3,"Singh, Dr. James Emma",female,20.8,0,0,GLJ47HV,16.81,,S,USA,Clerk,1,1,Unknown,Dr,Adult,Business,1
+3405,3,"Murphy, Miss. John Anna",female,22.8,2,1,NUCWXP7,21.61,,S,France,Merchant,4,0,Unknown,Miss,Adult,Vacation,0
+2907,3,"Martin, Dr. Ali David",male,48.5,3,0,K7881WB,29.92,,S,Italy,Nurse,4,0,Unknown,Dr,Adult,Immigration,1
+8305,3,"Martin, Mr. David James",male,50.3,2,1,DOZU1U4,36.35,,Q,Sweden,Teacher,4,0,Unknown,Mr,Adult,Immigration,1
+7493,1,"Brown, Dr. James John",female,18.0,3,0,7ZVATPK,84.17,F74,C,Germany,Clerk,4,0,F,Dr,Teen,Family Visit,1
+6101,2,"Khan, Dr. Mary James",female,22.7,3,1,CZ9IK50,15.88,,S,Lebanon,Labourer,5,0,D,Dr,Adult,Vacation,1
+4505,3,"Martin, Dr. Emma James",male,54.4,1,2,DQJ1UDE,22.4,,S,USA,Labourer,4,0,Unknown,Dr,Adult,Vacation,0
+5054,3,"Smith, Master. Ali David",male,18.9,1,0,EQA7V6T,31.14,,S,USA,Engineer,2,0,Unknown,Master,Teen,Immigration,0
+5206,3,"Brown, Mr. Emma David",male,40.1,0,2,WF99RYH,36.5,,S,India,Seamstress,3,0,Unknown,Mr,Adult,Vacation,0
+4081,3,"Johnson, Dr. Emma John",male,14.7,0,0,8KG4ZLK,20.22,,C,Italy,Teacher,1,1,Unknown,Dr,Teen,Business,0
+6919,3,"Johnson, Dr. David Raj",male,21.4,1,2,IYPCIE3,23.44,,S,Ireland,Nurse,4,0,Unknown,Dr,Adult,Vacation,0
+6803,3,"Patel, Miss. David Raj",female,20.9,2,1,3TA8VNZ,23.66,,S,USA,Doctor,4,0,Unknown,Miss,Adult,Vacation,0
+5207,3,"Johnson, Miss. Emma Raj",female,10.3,0,0,60PU868,30.23,,S,Sweden,Seamstress,1,1,Unknown,Miss,Child,Business,1
+533,1,"Martin, Mr. Emma John",male,25.2,0,2,68Q7GDM,148.1,,S,Ireland,Labourer,3,0,Unknown,Mr,Adult,Business,0
+4831,3,"Patel, Dr. Ali Mary",male,17.3,2,0,CC6R575,22.86,,C,Germany,Clerk,3,0,Unknown,Dr,Teen,Immigration,0
+4039,3,"Brown, Dr. Anna James",male,32.1,2,0,F8SQZ1U,27.73,,S,England,Labourer,3,0,Unknown,Dr,Adult,Family Visit,0
+4085,3,"Martin, Miss. Ali Emma",female,54.2,2,1,GHRQA2E,20.23,,S,USA,Seamstress,4,0,Unknown,Miss,Adult,Immigration,1
+3205,1,"Johnson, Miss. Mary Ali",female,18.4,2,0,QHXGSRL,145.17,G92,Q,Ireland,Nurse,3,0,G,Miss,Teen,Vacation,1
+7111,2,"Khan, Dr. John Ali",female,32.5,2,2,EVMR2I0,39.76,D41,S,India,Seamstress,5,0,D,Dr,Adult,Vacation,1
+331,3,"Garcia, Mrs. James Raj",female,40.2,2,0,SW1AVW6,28.03,,S,Ireland,Nurse,3,0,Unknown,Mrs,Adult,Family Visit,1
+4958,3,"Brown, Dr. Emma David",female,15.6,2,2,ILISTXQ,35.46,,C,Italy,Labourer,5,0,Unknown,Dr,Teen,Family Visit,1
+3034,3,"Brown, Master. Anna Emma",male,14.8,0,1,6OFSCZ5,17.6,,S,USA,Merchant,2,0,Unknown,Master,Teen,Family Visit,0
+7685,1,"Brown, Miss. Raj Mary",female,46.1,1,0,HPB37SG,96.05,,S,Finland,Businessman,2,0,Unknown,Miss,Adult,Business,1
+1598,1,"Johnson, Mr. Emma Anna",male,30.9,2,0,M9UUAKI,92.67,B8,S,India,Seamstress,3,0,B,Mr,Adult,Business,0
+9920,3,"Murphy, Dr. John David",female,43.4,0,1,H8R6GLI,36.5,,S,Italy,Seamstress,2,0,Unknown,Dr,Adult,Immigration,1
+3598,2,"Martin, Dr. Ali Anna",male,25.9,3,2,9ANOK62,57.19,F53,S,USA,Nurse,6,0,F,Dr,Adult,Immigration,0
+9039,2,"Johnson, Dr. Emma Anna",male,53.3,3,1,EHYQE77,54.41,,S,Italy,Doctor,5,0,Unknown,Dr,Adult,Business,1
+8002,3,"Garcia, Dr. John James",male,31.8,3,0,2C5VGOV,25.05,,C,India,Seamstress,4,0,Unknown,Dr,Adult,Vacation,0
+591,3,"Singh, Dr. Mary James",male,41.9,3,0,BNV5LR0,8.89,,S,Germany,Businessman,4,0,Unknown,Dr,Adult,Family Visit,0
+648,3,"Murphy, Mr. Mary James",male,23.1,0,2,TYWDWIT,9.6,,S,England,Clerk,3,0,Unknown,Mr,Adult,Immigration,0
+9103,1,"Murphy, Miss. James Ali",female,33.5,0,1,ZLX2IIH,175.82,A106,Q,France,Engineer,2,0,A,Miss,Adult,Vacation,1
+8016,3,"Murphy, Dr. Raj John",female,36.2,2,1,UOAVWQR,13.82,,C,Lebanon,Engineer,4,0,Unknown,Dr,Adult,Vacation,0
+3772,2,"Lee, Mr. Anna Anna",male,59.0,2,1,KW7ZRH7,19.98,,S,India,Seamstress,4,0,B,Mr,Adult,Family Visit,0
+9040,3,"Patel, Dr. Mary James",female,15.1,3,1,M6FIHWV,26.79,,S,Finland,Teacher,5,0,Unknown,Dr,Teen,Immigration,1
+5083,1,"Smith, Dr. Ali John",female,15.7,1,1,D6BAZA8,52.26,F116,S,Ireland,Doctor,3,0,F,Dr,Teen,Immigration,1
+7883,3,"Murphy, Mr. Mary Mary",male,42.9,2,2,TNK1N05,9.17,,C,India,Seamstress,5,0,Unknown,Mr,Adult,Business,0
+9363,3,"Khan, Dr. Emma John",male,38.7,2,2,8DGNMEK,12.99,,S,Lebanon,Engineer,5,0,Unknown,Dr,Adult,Family Visit,0
+4211,2,"Johnson, Mr. Emma Raj",male,25.9,0,1,FFLVODU,30.69,,Q,India,Teacher,2,0,E,Mr,Adult,Family Visit,0
+8835,3,"Johnson, Master. Ali John",male,13.2,3,0,45LVN99,38.16,,S,India,Doctor,4,0,Unknown,Master,Teen,Business,0
+8700,3,"Patel, Master. James Mary",male,14.3,1,2,YUJJARU,8.7,,C,India,Clerk,4,0,Unknown,Master,Teen,Immigration,0
+1796,3,"Brown, Dr. David Ali",male,29.0,2,0,BPNV0SX,36.21,,S,Sweden,Doctor,3,0,Unknown,Dr,Adult,Immigration,0
+2587,3,"Khan, Mr. David James",male,11.9,3,2,U74XMZO,27.11,,S,Germany,Doctor,6,0,Unknown,Mr,Child,Family Visit,0
+8356,3,"Singh, Dr. Emma James",female,31.8,3,1,GICEA3A,18.19,,S,USA,Seamstress,5,0,Unknown,Dr,Adult,Family Visit,0
+2317,1,"Martin, Master. Anna John",male,17.0,0,0,J10P0SH,174.37,,S,USA,Engineer,1,1,Unknown,Master,Teen,Business,1
+4186,3,"Martin, Master. Emma Emma",male,17.4,0,0,J5SI0EF,38.99,,S,Germany,Seamstress,1,1,Unknown,Master,Teen,Business,0
+8828,1,"Martin, Miss. Raj James",female,36.1,2,1,S2RZZT2,97.02,G129,S,Italy,Clerk,4,0,G,Miss,Adult,Business,1
+7073,2,"Lee, Dr. James James",male,28.4,2,1,KZ9A8RW,43.7,,S,USA,Engineer,4,0,E,Dr,Adult,Business,0
+5235,2,"Lee, Mrs. Mary John",female,46.1,2,1,87O70UW,75.26,,S,England,Engineer,4,0,B,Mrs,Adult,Business,1
+8744,3,"Garcia, Miss. David Emma",female,50.6,1,2,B22ASA9,14.87,,C,France,Nurse,4,0,Unknown,Miss,Adult,Business,0
+8671,3,"Martin, Mr. James Anna",male,7.9,1,2,ZRZEANM,20.26,,C,India,Doctor,4,0,Unknown,Mr,Child,Immigration,0
+4769,3,"Patel, Dr. Anna David",male,31.5,3,2,HDYZFMG,29.93,,S,Sweden,Labourer,6,0,Unknown,Dr,Adult,Vacation,0
+9973,2,"Khan, Miss. David Raj",female,2.4,3,0,3XETAA5,50.67,G20,S,Sweden,Doctor,4,0,G,Miss,Child,Immigration,1
+7145,1,"Murphy, Mrs. Raj Ali",female,15.7,3,0,N269L29,107.87,B107,S,Ireland,Merchant,4,0,B,Mrs,Teen,Family Visit,0
+2914,2,"Khan, Dr. Anna Raj",male,30.0,1,2,CV5B6IG,17.98,A128,S,England,Teacher,4,0,A,Dr,Adult,Business,1
+9872,3,"Martin, Dr. Emma John",female,35.8,3,2,ETNARGR,8.27,,S,India,Merchant,6,0,Unknown,Dr,Adult,Family Visit,1
+9894,1,"Brown, Mrs. Anna Ali",female,38.0,3,2,ILHJWG6,149.89,,C,Sweden,Doctor,6,0,A,Mrs,Adult,Business,1
+2076,1,"Smith, Dr. Ali John",female,48.2,3,0,31L3T2X,164.81,,S,Sweden,Teacher,4,0,A,Dr,Adult,Business,1
+4303,3,"Lee, Dr. John John",female,28.3,3,2,87JOU23,23.89,,S,Italy,Teacher,6,0,Unknown,Dr,Adult,Family Visit,0
+5823,3,"Patel, Dr. John Emma",male,36.0,1,2,FWJT8ZO,17.21,,S,Sweden,Nurse,4,0,Unknown,Dr,Adult,Family Visit,1
+2150,1,"Lee, Mr. Raj Anna",male,6.8,2,2,99I51RB,195.29,,S,Sweden,Student,5,0,E,Mr,Child,Business,1
+145,2,"Singh, Mrs. Anna Raj",female,22.1,0,0,KCB2HFF,44.62,,S,Germany,Labourer,1,1,E,Mrs,Adult,Immigration,1
+4964,3,"Smith, Mrs. Emma Anna",female,47.0,3,2,8RPL9FY,11.05,,S,Germany,Student,6,0,Unknown,Mrs,Adult,Business,1
+8160,2,"Khan, Mr. Anna Emma",male,15.3,2,0,BQGMK3I,65.34,G97,S,Italy,Labourer,3,0,G,Mr,Teen,Business,0
+9031,2,"Brown, Master. John Ali",male,71.6,3,2,RI6FTXJ,40.28,,C,USA,Nurse,6,0,G,Master,Senior,Vacation,0
+4776,3,"Patel, Master. Anna Raj",male,19.1,0,2,NIRH5FI,15.97,,C,Sweden,Student,3,0,Unknown,Master,Teen,Business,0
+8934,2,"Singh, Mrs. John James",female,0.5,3,0,FJTCAU7,40.34,,C,England,Student,4,0,Unknown,Mrs,Child,Family Visit,1
+7750,1,"Singh, Miss. Emma Ali",female,18.3,3,1,1BYTK2Y,156.3,,Q,Finland,Clerk,5,0,Unknown,Miss,Teen,Vacation,1
+9829,1,"Murphy, Miss. David David",female,48.0,0,1,DB0YZXQ,148.28,C121,C,USA,Seamstress,2,0,C,Miss,Adult,Family Visit,1
+9215,1,"Brown, Master. James Mary",male,18.6,3,0,1SOIRA3,76.41,B35,S,Ireland,Teacher,4,0,B,Master,Teen,Family Visit,0
+6061,3,"Singh, Master. Raj Raj",male,24.2,2,1,A3XR356,19.22,,C,Germany,Clerk,4,0,Unknown,Master,Adult,Immigration,0
+9476,2,"Lee, Dr. James Anna",male,26.0,3,1,XNEA535,66.11,,C,Lebanon,Teacher,5,0,G,Dr,Adult,Vacation,1
+6410,3,"Johnson, Dr. James Mary",male,24.9,3,1,KU87VL5,25.72,,C,Italy,Engineer,5,0,Unknown,Dr,Adult,Family Visit,0
+3318,1,"Singh, Mrs. James Ali",female,22.3,1,1,RI0YL22,160.77,,S,Germany,Labourer,3,0,C,Mrs,Adult,Family Visit,1
+7465,3,"Patel, Master. James Raj",male,10.1,1,2,FIOGA4U,5.98,,Q,Sweden,Engineer,4,0,Unknown,Master,Child,Family Visit,0
+3062,2,"Patel, Mrs. David Emma",female,11.7,3,2,3DHXKTQ,65.16,D137,S,Lebanon,Merchant,6,0,D,Mrs,Child,Business,1
+1356,3,"Patel, Miss. David James",female,42.1,3,0,DY5AJJ8,35.13,,S,Italy,Teacher,4,0,Unknown,Miss,Adult,Family Visit,0
+4515,3,"Lee, Mrs. James Emma",female,37.2,2,1,OC9UROO,9.15,,C,Sweden,Nurse,4,0,Unknown,Mrs,Adult,Business,0
+5506,1,"Khan, Mr. Ali Anna",male,17.0,3,0,602529T,60.47,G139,Q,Germany,Clerk,4,0,G,Mr,Teen,Family Visit,0
+5251,3,"Khan, Mrs. Ali Ali",female,16.9,2,2,TAZLRB8,6.96,,S,England,Clerk,5,0,Unknown,Mrs,Teen,Business,1
+4512,3,"Martin, Dr. Emma John",male,24.2,1,2,DZW5XLG,15.23,,S,France,Student,4,0,Unknown,Dr,Adult,Vacation,0
+1731,3,"Lee, Mrs. Mary James",female,44.7,1,2,S4H4ZJ8,20.31,,S,Lebanon,Nurse,4,0,Unknown,Mrs,Adult,Family Visit,1
+1759,3,"Singh, Dr. John Anna",male,32.9,0,0,ROT314H,6.79,,Q,Germany,Clerk,1,1,Unknown,Dr,Adult,Immigration,1
+6651,1,"Lee, Master. David John",male,9.1,3,1,CVEEYWD,65.86,F106,S,Ireland,Teacher,5,0,F,Master,Child,Vacation,1
+6647,2,"Murphy, Dr. Raj James",male,27.9,1,0,LMUDPYI,21.1,,S,Finland,Businessman,2,0,Unknown,Dr,Adult,Family Visit,1
+9861,2,"Singh, Master. David John",male,51.4,1,1,5Y5RN4Q,60.47,,S,Italy,Clerk,3,0,Unknown,Master,Adult,Immigration,1
+4140,3,"Martin, Mr. David Anna",male,21.2,2,1,VJHAK89,16.1,,S,India,Labourer,4,0,Unknown,Mr,Adult,Family Visit,0
+9394,3,"Johnson, Mrs. Ali John",female,42.1,3,2,BLVOFE9,25.69,,S,Finland,Doctor,6,0,Unknown,Mrs,Adult,Immigration,1
+5124,3,"Lee, Dr. David John",male,61.8,2,1,58TTDWB,22.76,,S,Germany,Clerk,4,0,Unknown,Dr,Senior,Family Visit,0
+1,3,"Patel, Mr. Raj Mary",male,20.1,2,1,JF8W5KN,36.44,,S,Ireland,Doctor,4,0,Unknown,Mr,Adult,Immigration,0
+1865,3,"Martin, Miss. David David",female,24.7,2,1,OBX7UEM,11.86,,Q,England,Businessman,4,0,Unknown,Miss,Adult,Business,1
+544,3,"Murphy, Dr. John David",female,9.4,2,2,QWRXT3Y,35.58,,S,France,Teacher,5,0,Unknown,Dr,Child,Family Visit,1
+350,2,"Patel, Dr. Ali John",male,32.8,3,1,6QIEKSO,18.45,,S,Ireland,Teacher,5,0,D,Dr,Adult,Immigration,1
+6907,3,"Khan, Miss. James James",female,23.2,1,1,SGHDWH1,31.07,,S,France,Engineer,3,0,Unknown,Miss,Adult,Family Visit,0
+9766,2,"Smith, Master. James Anna",male,4.5,3,0,1O1PPK2,46.61,,S,Germany,Seamstress,4,0,D,Master,Child,Business,0
+2524,2,"Brown, Miss. John Anna",female,21.5,0,2,1H6BJMH,70.61,C112,S,Sweden,Engineer,3,0,C,Miss,Adult,Family Visit,0
+3465,3,"Khan, Dr. James David",female,0.5,1,0,RSZWGG1,32.03,,S,England,Clerk,2,0,Unknown,Dr,Child,Business,1
+458,2,"Singh, Mr. John Emma",male,19.5,2,2,Y0SSY7S,77.59,,C,Finland,Engineer,5,0,G,Mr,Teen,Vacation,1
+3024,3,"Patel, Master. Raj Anna",male,24.5,0,2,LDTF58W,7.04,,S,Sweden,Teacher,3,0,Unknown,Master,Adult,Family Visit,0
+7262,3,"Johnson, Miss. James Ali",female,31.1,2,1,AL06WFX,19.02,,S,Lebanon,Engineer,4,0,Unknown,Miss,Adult,Immigration,0
+9516,3,"Khan, Dr. David Anna",male,12.6,1,1,XEU0EFF,22.1,,S,France,Engineer,3,0,Unknown,Dr,Child,Family Visit,0
+7873,3,"Murphy, Mrs. Emma Anna",female,22.8,1,1,INXCHRR,16.76,,C,Finland,Seamstress,3,0,Unknown,Mrs,Adult,Vacation,0
+6626,1,"Khan, Master. Mary Raj",male,52.5,2,0,UL3S8BW,104.48,,S,Finland,Teacher,3,0,A,Master,Adult,Immigration,1
+2535,3,"Patel, Dr. David Raj",female,44.3,1,0,TEDB8J4,11.21,,C,Finland,Merchant,2,0,Unknown,Dr,Adult,Vacation,0
+132,3,"Garcia, Miss. Mary Emma",female,14.0,2,0,KHRSZ3P,12.23,,S,USA,Clerk,3,0,Unknown,Miss,Teen,Vacation,1
+3705,2,"Martin, Master. Emma Ali",male,46.1,3,1,AU6VO0P,47.18,,Q,Sweden,Clerk,5,0,F,Master,Adult,Vacation,0
+1373,3,"Lee, Mrs. Anna Emma",female,38.1,3,1,NKOB74W,39.5,,S,USA,Doctor,5,0,Unknown,Mrs,Adult,Business,0
+6201,3,"Khan, Mr. Emma John",male,56.8,1,2,3FA9NGD,5.33,,S,Lebanon,Engineer,4,0,Unknown,Mr,Adult,Immigration,0
+4857,3,"Johnson, Mr. Raj Emma",male,21.0,3,2,ZP5OIMD,6.74,,C,USA,Student,6,0,Unknown,Mr,Adult,Vacation,0
+4713,1,"Brown, Mr. John Emma",male,30.6,3,1,6L0L6PD,103.83,F87,S,USA,Engineer,5,0,F,Mr,Adult,Vacation,0
+5545,3,"Khan, Miss. Anna James",female,18.4,3,2,52YXH7W,6.7,,S,Lebanon,Clerk,6,0,Unknown,Miss,Teen,Immigration,0
+1414,1,"Singh, Miss. Mary Anna",female,40.7,0,2,BITS8Y1,124.06,,S,France,Nurse,3,0,E,Miss,Adult,Vacation,1
+4114,3,"Lee, Mrs. Ali Raj",female,15.5,0,1,7N52SDQ,38.08,,S,Sweden,Nurse,2,0,Unknown,Mrs,Teen,Immigration,1
+656,1,"Smith, Dr. Anna David",female,8.9,1,0,P9JYCM2,122.4,E117,S,Germany,Merchant,2,0,E,Dr,Child,Immigration,1
+8138,1,"Khan, Mr. David Emma",male,20.8,1,2,I5P86W9,165.15,,S,France,Engineer,4,0,Unknown,Mr,Adult,Business,1
+4099,3,"Brown, Master. Raj Anna",male,18.4,1,1,580V001,24.09,,C,USA,Doctor,3,0,Unknown,Master,Teen,Family Visit,1
+593,3,"Patel, Dr. Emma John",male,48.4,1,0,8RUX373,10.27,,C,Italy,Doctor,2,0,Unknown,Dr,Adult,Immigration,0
+8709,2,"Lee, Dr. James David",female,27.8,3,2,76EZCNK,29.37,F13,S,Finland,Businessman,6,0,F,Dr,Adult,Immigration,0
+3124,2,"Murphy, Master. David David",male,0.5,2,0,HO0ZDI7,32.07,,S,Finland,Clerk,3,0,F,Master,Child,Business,0
+3048,3,"Garcia, Dr. Raj Anna",male,6.6,0,1,VG5VVHJ,27.76,,C,England,Nurse,2,0,Unknown,Dr,Child,Vacation,0
+3888,1,"Martin, Miss. John Mary",female,28.6,0,0,OCIPLM2,106.27,,C,Sweden,Doctor,1,1,B,Miss,Adult,Business,1
+5736,3,"Garcia, Mr. Emma Anna",male,37.1,3,0,MMCUO9H,20.65,,Q,England,Engineer,4,0,Unknown,Mr,Adult,Vacation,0
+2185,3,"Patel, Dr. Raj John",female,28.0,0,2,NPRAJRF,23.47,,S,England,Labourer,3,0,Unknown,Dr,Adult,Vacation,1
+2146,1,"Johnson, Dr. Raj Ali",male,26.0,0,0,FGYJK0K,96.88,,C,Lebanon,Teacher,1,1,A,Dr,Adult,Business,1
+7048,3,"Khan, Dr. Mary Raj",male,34.3,2,2,S0GXYR5,24.27,,S,India,Doctor,5,0,Unknown,Dr,Adult,Immigration,0
+3106,3,"Brown, Miss. Raj David",female,17.4,0,0,TWIST7T,33.16,,Q,USA,Merchant,1,1,Unknown,Miss,Teen,Family Visit,1
+9234,1,"Singh, Mrs. Ali Raj",female,50.3,2,1,LFVEW51,150.68,D44,S,Germany,Clerk,4,0,D,Mrs,Adult,Business,1
+9097,1,"Patel, Master. David James",male,31.4,3,2,ZQ1JBSE,167.35,,C,Italy,Doctor,6,0,Unknown,Master,Adult,Immigration,0
+2770,2,"Singh, Mrs. Anna Mary",female,14.8,0,1,B5YUYOM,70.27,G42,S,Sweden,Doctor,2,0,G,Mrs,Teen,Vacation,1
+5222,2,"Martin, Master. Raj Raj",male,36.0,0,0,XXAQ2RS,20.51,,S,Germany,Seamstress,1,1,A,Master,Adult,Business,0
+5834,3,"Garcia, Mr. Anna Emma",male,40.9,0,2,L5ZJQYS,35.34,,Q,France,Businessman,3,0,Unknown,Mr,Adult,Business,0
+1733,3,"Khan, Mr. Mary David",male,24.6,3,1,VIXBMOY,19.68,,Q,Ireland,Engineer,5,0,Unknown,Mr,Adult,Immigration,0
+266,2,"Lee, Miss. John Ali",female,46.2,1,1,MZUS7Q5,49.03,,Q,India,Businessman,3,0,B,Miss,Adult,Family Visit,0
+5145,3,"Khan, Mrs. Raj John",female,31.5,0,0,CPUTXBW,12.34,,S,Germany,Engineer,1,1,Unknown,Mrs,Adult,Vacation,0
+8268,2,"Martin, Dr. Ali Anna",female,60.2,1,2,FXJP4YK,40.39,B73,S,Sweden,Teacher,4,0,B,Dr,Senior,Immigration,1
+3938,3,"Singh, Mrs. David Mary",female,41.1,1,1,R4AL2XT,37.98,,S,Sweden,Seamstress,3,0,Unknown,Mrs,Adult,Vacation,0
+762,1,"Garcia, Dr. Mary David",male,9.0,1,0,M7B8YPT,104.14,,S,Germany,Labourer,2,0,Unknown,Dr,Child,Vacation,0
+7221,3,"Patel, Dr. Anna Mary",male,46.3,3,1,2P6X6S9,7.72,,Q,Ireland,Businessman,5,0,Unknown,Dr,Adult,Business,0
+8440,3,"Murphy, Dr. James Emma",male,0.5,3,2,KT27I48,22.38,,Q,France,Doctor,6,0,Unknown,Dr,Child,Immigration,0
+3258,3,"Murphy, Miss. David Anna",female,28.5,3,1,BLOBHS5,31.61,,S,England,Seamstress,5,0,Unknown,Miss,Adult,Vacation,1
+4339,3,"Singh, Dr. Anna Raj",male,35.4,2,0,QJ2W1X8,38.25,,Q,Italy,Nurse,3,0,Unknown,Dr,Adult,Business,0
+4363,3,"Brown, Dr. Ali Raj",male,41.4,2,1,UEF8OBN,9.57,,Q,USA,Businessman,4,0,Unknown,Dr,Adult,Business,0
+317,3,"Khan, Master. David John",male,27.3,3,0,OE0JE9M,38.84,,C,Sweden,Businessman,4,0,Unknown,Master,Adult,Business,0
+8070,1,"Patel, Master. Raj David",male,15.1,0,2,VWQI9VR,52.28,C131,S,Sweden,Seamstress,3,0,C,Master,Teen,Family Visit,1
+1852,3,"Murphy, Dr. Emma Emma",male,17.1,0,1,GT52HC8,15.18,,S,Germany,Nurse,2,0,Unknown,Dr,Teen,Immigration,1
+2485,1,"Murphy, Miss. Raj Emma",female,14.6,3,0,YPAK4JU,192.05,,C,Ireland,Merchant,4,0,Unknown,Miss,Teen,Vacation,1
+9874,2,"Singh, Dr. John John",male,16.6,0,2,AZWZ331,58.88,C64,S,Italy,Nurse,3,0,C,Dr,Teen,Family Visit,1
+9575,3,"Johnson, Mr. Emma Raj",male,19.6,3,2,12SEJA6,14.79,,S,Lebanon,Seamstress,6,0,Unknown,Mr,Teen,Family Visit,0
+1079,2,"Lee, Master. Mary Anna",male,23.7,2,1,X4GEIN3,62.68,C111,S,Ireland,Doctor,4,0,C,Master,Adult,Immigration,0
+8359,3,"Garcia, Master. Emma John",male,24.3,0,1,JYZKWZL,34.54,,Q,Ireland,Teacher,2,0,Unknown,Master,Adult,Vacation,1
+7334,3,"Martin, Master. David Ali",male,18.4,0,2,9VMEJ44,8.48,,S,Italy,Student,3,0,Unknown,Master,Teen,Family Visit,1
+1072,1,"Singh, Miss. John Anna",female,10.2,0,0,GQLROJB,75.5,D11,C,England,Teacher,1,1,D,Miss,Child,Immigration,1
+104,1,"Khan, Mr. David Mary",male,22.3,2,1,SD765X1,52.67,B134,C,England,Student,4,0,B,Mr,Adult,Immigration,1
+5749,2,"Brown, Mrs. Mary David",female,54.1,2,0,RLMC7PG,62.39,B82,S,Italy,Doctor,3,0,B,Mrs,Adult,Immigration,0
+1419,3,"Murphy, Dr. Anna Anna",female,27.4,1,1,3CF84ZZ,32.16,,S,Finland,Clerk,3,0,Unknown,Dr,Adult,Vacation,0
+1659,1,"Martin, Mr. Mary Raj",male,24.3,1,2,Z55GEHM,51.28,C142,S,India,Merchant,4,0,C,Mr,Adult,Vacation,0
+5285,2,"Lee, Mrs. Anna James",female,17.2,2,1,BNHXT4U,50.19,,C,Germany,Student,4,0,Unknown,Mrs,Teen,Business,1
+1150,2,"Martin, Mrs. Emma James",female,21.8,1,2,LEXB8YE,62.07,,C,Italy,Seamstress,4,0,C,Mrs,Adult,Family Visit,1
+7151,1,"Martin, Dr. Raj Anna",female,33.6,3,1,8WEZ40J,58.36,,S,USA,Merchant,5,0,Unknown,Dr,Adult,Immigration,1
+1569,1,"Patel, Miss. Ali Anna",female,44.9,1,2,BMXNWRQ,120.99,G17,C,Sweden,Labourer,4,0,G,Miss,Adult,Vacation,1
+1088,2,"Lee, Dr. John Ali",male,33.1,2,2,KRGXWKM,30.71,C77,S,Sweden,Merchant,5,0,C,Dr,Adult,Vacation,0
+6086,2,"Patel, Miss. James David",female,30.8,0,0,5SQZKFZ,33.17,,S,Sweden,Doctor,1,1,Unknown,Miss,Adult,Vacation,1
+8675,3,"Lee, Master. Ali Ali",male,65.9,3,0,9JH6TRU,7.63,,S,Finland,Businessman,4,0,Unknown,Master,Senior,Family Visit,0
+8342,3,"Singh, Dr. Emma John",female,67.7,1,2,R5AEFAQ,21.03,,S,Ireland,Engineer,4,0,Unknown,Dr,Senior,Immigration,1
+7812,2,"Lee, Mr. Mary Mary",male,36.2,1,1,MEBR9VM,26.4,,S,Sweden,Seamstress,3,0,Unknown,Mr,Adult,Immigration,0
+6085,3,"Murphy, Mrs. Emma Anna",female,15.6,0,0,3GGSA7Z,17.57,,S,Germany,Nurse,1,1,Unknown,Mrs,Teen,Immigration,0
+8774,1,"Patel, Miss. Raj Anna",female,23.9,1,1,G4MXDV0,51.09,F129,S,Ireland,Labourer,3,0,F,Miss,Adult,Family Visit,1
+8758,3,"Brown, Mrs. David Ali",female,3.7,2,0,7YQWTGB,34.05,,S,Sweden,Clerk,3,0,Unknown,Mrs,Child,Vacation,1
+1693,1,"Patel, Mr. James Emma",male,26.6,1,0,1FGQLTV,152.86,,Q,France,Student,2,0,E,Mr,Adult,Family Visit,0
+4735,3,"Singh, Miss. John Ali",female,11.7,2,0,QTYBNJY,15.04,,C,Germany,Labourer,3,0,Unknown,Miss,Child,Family Visit,1
+3388,3,"Singh, Mrs. Ali Ali",female,32.5,1,2,CCF77HE,6.16,,S,Ireland,Teacher,4,0,Unknown,Mrs,Adult,Family Visit,0
+3647,3,"Patel, Mrs. James Mary",female,37.7,3,1,GROIK5N,11.12,,C,India,Teacher,5,0,Unknown,Mrs,Adult,Vacation,0
+1684,2,"Singh, Dr. Raj Raj",female,20.9,1,2,E5LV0N9,37.35,E33,S,Germany,Clerk,4,0,E,Dr,Adult,Business,1
+9,3,"Khan, Mrs. David John",female,41.0,1,0,DNBXJCQ,5.98,,S,Finland,Seamstress,2,0,Unknown,Mrs,Adult,Immigration,1
+6063,3,"Khan, Mr. Ali Emma",male,7.0,0,1,G71U20D,9.88,,C,Italy,Nurse,2,0,Unknown,Mr,Child,Immigration,1
+6517,3,"Khan, Master. John Ali",male,28.4,1,1,KIX11U0,9.0,,S,Sweden,Seamstress,3,0,Unknown,Master,Adult,Immigration,1
+4124,3,"Khan, Dr. Anna Emma",male,23.1,1,0,4H2J9CP,20.48,,Q,Finland,Nurse,2,0,Unknown,Dr,Adult,Vacation,0
+8730,2,"Khan, Mrs. Mary Mary",female,8.6,1,2,ZN97921,35.18,F94,S,Germany,Merchant,4,0,F,Mrs,Child,Immigration,1
+6046,3,"Singh, Master. James John",male,15.0,1,2,S4FGQML,31.2,,S,Italy,Merchant,4,0,Unknown,Master,Teen,Immigration,0
+568,1,"Smith, Master. Mary Ali",male,39.4,1,0,I05P17A,69.41,,S,USA,Businessman,2,0,B,Master,Adult,Immigration,0
+9162,2,"Singh, Mrs. Anna Raj",female,17.3,2,0,3Q1RBEJ,70.36,,S,France,Clerk,3,0,Unknown,Mrs,Teen,Business,1
+1804,2,"Smith, Dr. James Anna",male,26.7,0,2,O9UJX0Z,64.58,C78,S,Sweden,Student,3,0,C,Dr,Adult,Immigration,0
+8502,3,"Murphy, Dr. Anna James",female,35.2,0,0,3IBSDIC,29.38,,S,India,Teacher,1,1,Unknown,Dr,Adult,Immigration,1
+4901,3,"Singh, Dr. Anna Mary",male,39.3,2,0,NADYT6L,9.75,,S,India,Nurse,3,0,Unknown,Dr,Adult,Vacation,0
+1600,1,"Patel, Mr. Ali David",male,19.1,1,2,U8BCHV5,149.54,,C,Sweden,Engineer,4,0,C,Mr,Teen,Immigration,1
+7932,3,"Brown, Mr. Anna Raj",male,8.0,1,0,S75023V,32.26,,S,Sweden,Businessman,2,0,Unknown,Mr,Child,Business,0
+9548,3,"Lee, Master. Raj Ali",male,24.3,0,0,SSRP7CC,19.85,,S,USA,Engineer,1,1,Unknown,Master,Adult,Business,0
+2824,3,"Lee, Miss. Emma Emma",female,64.3,1,2,CIL4J4A,18.38,,S,Finland,Engineer,4,0,Unknown,Miss,Senior,Vacation,1
+5468,2,"Martin, Mrs. Ali Mary",female,20.2,2,2,PFSCOJ9,33.49,,S,Lebanon,Seamstress,5,0,C,Mrs,Adult,Family Visit,1
+3530,3,"Martin, Mrs. James Raj",female,26.4,2,2,FDZF33S,30.93,,S,Italy,Teacher,5,0,Unknown,Mrs,Adult,Family Visit,1
+8684,3,"Khan, Mrs. Emma Raj",female,29.3,3,2,I5F92KZ,29.19,,S,Germany,Engineer,6,0,Unknown,Mrs,Adult,Immigration,0
+1156,1,"Singh, Master. Anna James",male,23.5,3,2,CXM6L87,197.52,E9,S,Lebanon,Labourer,6,0,E,Master,Adult,Immigration,0
+6548,2,"Martin, Miss. Emma Emma",female,24.7,3,0,MY3XR2L,20.61,A33,S,Ireland,Clerk,4,0,A,Miss,Adult,Family Visit,0
+9089,1,"Brown, Mrs. John John",female,17.6,1,1,2YGKC47,109.41,,S,Germany,Doctor,3,0,A,Mrs,Teen,Family Visit,1
+7621,3,"Patel, Mr. John Mary",male,9.2,3,1,7O5B93F,6.91,,S,Italy,Labourer,5,0,Unknown,Mr,Child,Immigration,0
+8297,3,"Brown, Miss. Raj Raj",female,23.1,1,2,BPEBJGI,24.72,,C,Italy,Clerk,4,0,Unknown,Miss,Adult,Family Visit,1
+4541,3,"Murphy, Dr. Anna Ali",male,48.1,0,0,UVF20KN,29.81,,S,India,Clerk,1,1,Unknown,Dr,Adult,Family Visit,0
+9135,2,"Brown, Mr. Anna David",male,12.4,3,2,U16APD6,38.1,B96,C,Germany,Clerk,6,0,B,Mr,Child,Family Visit,1
+6483,3,"Smith, Mrs. Mary John",female,49.8,3,1,7D4HANR,24.01,,S,Sweden,Engineer,5,0,Unknown,Mrs,Adult,Family Visit,1
+5827,3,"Johnson, Dr. Emma James",female,34.0,1,2,8UDWD5B,27.22,,S,Sweden,Clerk,4,0,Unknown,Dr,Adult,Family Visit,1
+1191,3,"Singh, Master. Anna John",male,20.4,2,1,54SHNST,23.27,,S,USA,Businessman,4,0,Unknown,Master,Adult,Family Visit,0
+7445,3,"Singh, Dr. Raj Mary",male,26.6,1,0,PSSI7P0,12.64,,S,Germany,Doctor,2,0,Unknown,Dr,Adult,Immigration,0
+8521,3,"Singh, Mrs. Raj John",female,1.5,1,2,N112AWT,12.9,,S,France,Teacher,4,0,Unknown,Mrs,Child,Immigration,1
+961,2,"Martin, Dr. Mary John",male,17.4,2,2,8E754NZ,40.54,,Q,India,Nurse,5,0,Unknown,Dr,Teen,Family Visit,0
+7455,3,"Garcia, Mrs. Raj Ali",female,47.6,0,1,FQX8HAQ,34.04,,S,Finland,Clerk,2,0,Unknown,Mrs,Adult,Business,0
+37,2,"Brown, Master. Anna John",male,18.6,3,1,5K3CFES,27.97,A129,S,England,Teacher,5,0,A,Master,Teen,Immigration,1
+7517,2,"Martin, Dr. James Mary",male,29.0,2,0,DR1F9TE,75.52,,S,USA,Teacher,3,0,B,Dr,Adult,Vacation,0
+7645,3,"Lee, Mrs. Anna John",female,0.5,0,1,EOIBJ54,38.81,,C,Ireland,Labourer,2,0,Unknown,Mrs,Child,Business,0
+4439,1,"Garcia, Master. Emma Raj",male,26.7,2,1,BAKCY8W,115.17,E94,Q,Lebanon,Engineer,4,0,E,Master,Adult,Immigration,1
+6162,3,"Singh, Mr. Anna Mary",male,0.5,3,0,HOZLDXI,18.21,,Q,England,Engineer,4,0,Unknown,Mr,Child,Business,0
+7745,3,"Patel, Dr. Raj Ali",male,38.7,3,1,X9ASE67,13.74,,S,USA,Businessman,5,0,Unknown,Dr,Adult,Vacation,1
+9588,2,"Martin, Dr. David Ali",male,38.1,2,1,QD5A62C,39.23,,S,USA,Student,4,0,Unknown,Dr,Adult,Vacation,1
+8120,1,"Lee, Mr. John Ali",male,30.8,3,0,64O922V,192.72,,Q,Germany,Businessman,4,0,A,Mr,Adult,Immigration,0
+6968,3,"Martin, Dr. Mary James",male,19.4,2,2,FIRMAMH,28.17,,C,India,Labourer,5,0,Unknown,Dr,Teen,Vacation,0
+5719,3,"Lee, Dr. Emma Mary",female,9.4,3,0,Q5UF5YH,6.54,,S,Germany,Teacher,4,0,Unknown,Dr,Child,Vacation,0
+578,3,"Martin, Miss. Ali Raj",female,36.1,2,1,ZY44A5K,37.95,,S,Germany,Nurse,4,0,Unknown,Miss,Adult,Business,0
+9834,2,"Martin, Dr. James Raj",female,28.2,2,2,B6FRPCI,26.97,C50,S,Sweden,Businessman,5,0,C,Dr,Adult,Business,1
+4103,2,"Khan, Master. John Emma",male,43.0,0,1,BMY8U8F,33.78,B96,S,USA,Seamstress,2,0,B,Master,Adult,Family Visit,0
+7647,3,"Garcia, Dr. Mary John",male,9.2,0,2,XEG9IBC,24.13,,Q,Germany,Businessman,3,0,Unknown,Dr,Child,Family Visit,0
+4152,3,"Khan, Mrs. Emma James",female,59.1,0,1,DWS3LSJ,8.28,,C,Italy,Clerk,2,0,Unknown,Mrs,Adult,Immigration,0
+3131,3,"Lee, Miss. Anna Emma",female,46.8,3,2,JXZJRFW,21.19,,S,Italy,Nurse,6,0,Unknown,Miss,Adult,Family Visit,1
+4891,3,"Garcia, Dr. Anna John",male,17.1,0,0,NII7LA8,18.55,,S,Lebanon,Student,1,1,Unknown,Dr,Teen,Vacation,1
+9976,1,"Khan, Mrs. Ali John",female,29.4,3,1,2THHT3L,110.75,,C,Ireland,Engineer,5,0,D,Mrs,Adult,Family Visit,1
+7472,1,"Johnson, Dr. James David",male,30.8,0,0,GPVCUSX,83.55,,S,France,Teacher,1,1,D,Dr,Adult,Family Visit,1
+1834,1,"Brown, Master. James Raj",male,53.9,2,0,252WVJ5,152.8,,C,Ireland,Businessman,3,0,B,Master,Adult,Family Visit,0
+9149,3,"Patel, Mr. Mary Raj",male,15.0,2,1,TR76SIC,39.62,,S,Lebanon,Labourer,4,0,Unknown,Mr,Teen,Vacation,0
+4892,3,"Garcia, Mr. Emma John",male,31.2,1,1,SPPJ3KN,15.05,,C,France,Businessman,3,0,Unknown,Mr,Adult,Vacation,0
+2288,2,"Brown, Miss. John James",female,41.3,1,0,T1TVGWH,74.57,,S,USA,Doctor,2,0,Unknown,Miss,Adult,Immigration,1
+1331,3,"Murphy, Master. Anna James",male,46.7,2,0,AIA88I0,25.34,,S,France,Engineer,3,0,Unknown,Master,Adult,Family Visit,0
+2772,1,"Garcia, Miss. Anna Mary",female,53.1,3,0,NR20VWD,108.89,,S,Sweden,Labourer,4,0,Unknown,Miss,Adult,Immigration,1
+3687,3,"Brown, Miss. Raj Raj",female,26.0,2,0,6HX15ZE,25.04,,Q,Finland,Merchant,3,0,Unknown,Miss,Adult,Immigration,0
+8284,2,"Singh, Master. Mary Raj",male,30.4,2,0,J7N01YB,45.01,A109,S,USA,Labourer,3,0,A,Master,Adult,Vacation,0
+5929,2,"Martin, Dr. Emma James",male,34.7,1,0,AM0J0HQ,58.5,E42,C,Ireland,Seamstress,2,0,E,Dr,Adult,Immigration,0
+638,1,"Murphy, Dr. John Emma",male,24.6,2,2,7RQ5406,166.55,,S,India,Clerk,5,0,B,Dr,Adult,Immigration,0
+48,1,"Murphy, Mr. Anna Ali",male,36.8,2,1,3SFYO57,161.83,G31,S,France,Clerk,4,0,G,Mr,Adult,Immigration,0
+2603,3,"Lee, Mrs. David James",female,7.3,2,1,9BIW1QU,22.28,,C,Ireland,Nurse,4,0,Unknown,Mrs,Child,Immigration,1
+1966,3,"Brown, Miss. David Raj",female,15.8,1,0,3XKV6RM,25.96,,Q,India,Merchant,2,0,Unknown,Miss,Teen,Vacation,0
+2169,3,"Murphy, Dr. Emma Emma",female,22.0,1,1,WGHNRRA,7.48,,Q,Lebanon,Businessman,3,0,Unknown,Dr,Adult,Vacation,0
+5050,3,"Khan, Dr. Emma John",male,41.3,2,0,PID512F,24.67,,S,France,Merchant,3,0,Unknown,Dr,Adult,Vacation,0
+3335,3,"Patel, Mrs. Anna David",female,31.1,0,0,40K8I6V,12.9,,S,Sweden,Businessman,1,1,Unknown,Mrs,Adult,Vacation,1
+3020,3,"Johnson, Master. Anna Anna",male,25.6,3,2,E03D8YW,11.39,,S,India,Clerk,6,0,Unknown,Master,Adult,Family Visit,0
+8765,3,"Garcia, Mr. John Mary",male,19.3,2,1,KKRBFQG,20.7,,S,France,Doctor,4,0,Unknown,Mr,Teen,Business,0
+9177,3,"Brown, Mrs. Anna David",female,53.4,1,1,IOY49B4,9.47,,S,Finland,Nurse,3,0,Unknown,Mrs,Adult,Immigration,0
+1361,3,"Garcia, Miss. David Emma",female,36.4,3,0,K3WZ0D4,20.61,,C,Germany,Labourer,4,0,Unknown,Miss,Adult,Business,1
+5799,3,"Smith, Mrs. John James",female,10.3,0,2,M7GCVX5,7.61,,C,Sweden,Doctor,3,0,Unknown,Mrs,Child,Vacation,1
+9401,3,"Martin, Dr. Anna Raj",male,38.1,2,1,Z7BAI8K,28.44,,S,Finland,Doctor,4,0,Unknown,Dr,Adult,Business,0
+3252,3,"Smith, Miss. John David",female,15.1,3,0,5UKPQYO,10.33,,S,Italy,Seamstress,4,0,Unknown,Miss,Teen,Family Visit,0
+6301,3,"Singh, Mrs. James Emma",female,30.8,2,2,3TDNJ3J,39.55,,Q,Ireland,Doctor,5,0,Unknown,Mrs,Adult,Vacation,1
+2252,3,"Garcia, Mr. Ali Ali",male,11.8,1,1,CXE5CWA,8.04,,C,Italy,Clerk,3,0,Unknown,Mr,Child,Family Visit,1
+6028,3,"Brown, Mr. Raj Raj",male,30.6,2,0,AUFZ8XT,10.08,,S,Sweden,Merchant,3,0,Unknown,Mr,Adult,Family Visit,1
+1176,2,"Martin, Miss. James Mary",female,60.2,2,2,8YSZU0D,38.56,,S,Lebanon,Labourer,5,0,E,Miss,Senior,Business,1
+8800,2,"Singh, Mr. Ali James",male,38.2,0,0,IONWH8U,55.73,F80,C,France,Engineer,1,1,F,Mr,Adult,Immigration,0
+3280,3,"Garcia, Dr. Anna Ali",male,20.1,2,0,BKK776E,26.11,,S,France,Teacher,3,0,Unknown,Dr,Adult,Vacation,0
+2974,1,"Patel, Miss. David Mary",female,16.3,2,1,8H85Q9X,84.1,F78,C,Sweden,Engineer,4,0,F,Miss,Teen,Vacation,1
+3397,3,"Garcia, Mrs. Ali John",female,14.3,2,2,NO7TWST,14.15,,S,Sweden,Businessman,5,0,Unknown,Mrs,Teen,Vacation,1
+6940,2,"Singh, Mr. James Mary",male,41.4,2,2,ZTMSYDP,22.0,,S,Sweden,Clerk,5,0,Unknown,Mr,Adult,Immigration,0
+966,1,"Johnson, Dr. Raj Ali",female,35.9,3,1,9PK359I,110.89,D43,S,USA,Seamstress,5,0,D,Dr,Adult,Immigration,1
+8575,3,"Khan, Dr. Raj Anna",male,54.7,0,1,CV46DQF,37.84,,S,India,Merchant,2,0,Unknown,Dr,Adult,Business,1
+743,3,"Singh, Mr. John Raj",male,29.6,0,2,GUG80GT,5.21,,C,Sweden,Nurse,3,0,Unknown,Mr,Adult,Business,1
+7515,3,"Brown, Master. James Emma",male,49.4,1,1,A1O0CBY,21.97,,S,England,Nurse,3,0,Unknown,Master,Adult,Vacation,0
+3315,3,"Murphy, Mrs. John James",female,28.9,0,1,R2HQGAP,7.65,,C,England,Businessman,2,0,Unknown,Mrs,Adult,Vacation,0
+4899,3,"Singh, Master. James David",male,11.8,3,2,BU9QO79,7.18,,C,Italy,Doctor,6,0,Unknown,Master,Child,Vacation,0
+9341,3,"Martin, Dr. Raj Emma",male,35.9,1,1,FFLH889,20.1,,S,Sweden,Seamstress,3,0,Unknown,Dr,Adult,Business,0
+4673,3,"Johnson, Mr. John Raj",male,46.4,3,1,Q9J1V5G,19.43,,Q,Sweden,Labourer,5,0,Unknown,Mr,Adult,Business,1
+8619,3,"Garcia, Dr. Raj Raj",female,22.8,0,2,GBT7TEE,32.82,,C,Germany,Businessman,3,0,Unknown,Dr,Adult,Immigration,0
+1218,3,"Khan, Mr. Mary David",male,31.0,0,1,G31ZFY0,35.15,,S,Italy,Businessman,2,0,Unknown,Mr,Adult,Immigration,0
+4398,3,"Smith, Master. Ali Anna",male,11.3,0,0,OO2US66,27.42,,S,England,Student,1,1,Unknown,Master,Child,Family Visit,1
+6081,2,"Brown, Mr. Anna Ali",male,14.4,3,1,625LSHB,53.3,,S,Sweden,Doctor,5,0,Unknown,Mr,Teen,Business,0
+2615,2,"Smith, Dr. Anna James",male,27.9,2,0,RT1KEQ0,45.28,F98,S,USA,Engineer,3,0,F,Dr,Adult,Family Visit,1
+2621,3,"Brown, Master. Emma Anna",male,29.7,2,1,RC67LIP,9.75,,C,Italy,Businessman,4,0,Unknown,Master,Adult,Vacation,1
+8715,1,"Singh, Dr. David David",male,30.2,0,0,Q853QVM,141.01,F4,S,France,Nurse,1,1,F,Dr,Adult,Family Visit,1
+7283,2,"Murphy, Miss. Ali David",female,44.1,3,0,2K9XNXV,20.03,C51,C,France,Student,4,0,C,Miss,Adult,Business,0
+3380,3,"Martin, Master. Anna David",male,15.9,1,0,R5BBGMU,26.42,,C,Lebanon,Nurse,2,0,Unknown,Master,Teen,Business,0
+7302,3,"Garcia, Mr. Anna David",male,26.4,3,1,TMGT4ZP,36.43,,S,India,Student,5,0,Unknown,Mr,Adult,Business,0
+9858,1,"Garcia, Dr. James David",male,29.8,0,2,5Z876FV,141.78,,Q,Sweden,Merchant,3,0,F,Dr,Adult,Family Visit,0
+5606,1,"Khan, Dr. Emma Mary",male,42.0,2,1,3TDRMB6,174.92,G65,Q,Sweden,Seamstress,4,0,G,Dr,Adult,Family Visit,1
+9814,2,"Patel, Mrs. Ali David",female,22.0,0,1,9RD1Z74,67.66,E105,S,England,Seamstress,2,0,E,Mrs,Adult,Vacation,0
+5787,3,"Patel, Mr. Mary Emma",male,32.5,2,1,B6SXYWR,26.24,,S,Finland,Labourer,4,0,Unknown,Mr,Adult,Family Visit,1
+8519,3,"Brown, Mrs. David Raj",female,35.2,2,1,EH3KUL5,16.89,,S,Germany,Teacher,4,0,Unknown,Mrs,Adult,Vacation,1
+6851,3,"Johnson, Dr. Ali David",male,36.5,3,1,YC0DQDB,21.76,,S,Sweden,Student,5,0,Unknown,Dr,Adult,Vacation,1
+1517,2,"Brown, Miss. Mary Ali",female,19.5,3,0,K24LHCS,22.45,F136,Q,USA,Seamstress,4,0,F,Miss,Teen,Vacation,0
+5099,2,"Patel, Mrs. Raj James",female,13.1,3,2,XZASULN,42.8,,S,Italy,Nurse,6,0,A,Mrs,Teen,Business,1
+7637,3,"Smith, Miss. Emma Anna",female,43.2,1,1,E3890US,13.04,,S,France,Clerk,3,0,Unknown,Miss,Adult,Vacation,0
+9086,3,"Singh, Master. Anna David",male,20.8,0,0,TBX14SZ,6.26,,S,Ireland,Student,1,1,Unknown,Master,Adult,Immigration,0
+8024,1,"Murphy, Master. John Raj",male,13.7,3,2,U64GY8E,174.69,A125,S,Finland,Teacher,6,0,A,Master,Teen,Vacation,0
+2393,3,"Murphy, Mr. Emma James",male,31.0,2,2,0GVSYSN,11.51,,S,Finland,Doctor,5,0,Unknown,Mr,Adult,Family Visit,0
+587,3,"Brown, Mrs. Raj Ali",female,44.1,2,2,TOWN40J,20.04,,S,Finland,Student,5,0,Unknown,Mrs,Adult,Business,1
+3520,2,"Smith, Miss. David David",female,16.8,1,0,OC6X8BI,22.55,E65,S,Germany,Merchant,2,0,E,Miss,Teen,Family Visit,1
+7654,3,"Brown, Master. Anna John",male,35.7,2,1,67WVO0E,13.42,,S,India,Teacher,4,0,Unknown,Master,Adult,Vacation,0
+8947,3,"Garcia, Miss. David James",female,7.6,1,0,WQUUMJ7,25.41,,S,Sweden,Student,2,0,Unknown,Miss,Child,Business,1
+851,3,"Lee, Dr. David Raj",male,20.1,2,2,F92383N,26.38,,C,Finland,Doctor,5,0,Unknown,Dr,Adult,Business,0
+336,2,"Martin, Mrs. David John",female,29.9,1,1,VT6ZEYU,60.22,C36,S,England,Seamstress,3,0,C,Mrs,Adult,Immigration,1
+6635,2,"Martin, Mrs. Mary David",female,37.6,0,2,X7EO655,47.25,,C,India,Clerk,3,0,A,Mrs,Adult,Immigration,1
+8973,1,"Murphy, Miss. David David",female,35.3,1,1,OXE3XZV,129.48,G3,S,Ireland,Student,3,0,G,Miss,Adult,Vacation,1
+7494,3,"Johnson, Dr. James Emma",female,33.3,3,2,7QSNCT6,16.65,,S,France,Labourer,6,0,Unknown,Dr,Adult,Vacation,0
+2869,1,"Martin, Mrs. Mary Emma",female,55.5,0,0,HJC2LAK,51.91,,S,England,Labourer,1,1,Unknown,Mrs,Adult,Vacation,1
+4873,3,"Smith, Dr. Mary Emma",male,48.1,1,1,HKPLQ6X,36.9,,S,Germany,Merchant,3,0,Unknown,Dr,Adult,Vacation,0
+3551,1,"Martin, Dr. Raj David",female,24.0,3,2,ZX7TPBW,99.47,,S,England,Nurse,6,0,C,Dr,Adult,Immigration,0
+3843,3,"Khan, Miss. David Mary",female,49.5,1,1,IVYMDI6,24.51,,C,Ireland,Businessman,3,0,Unknown,Miss,Adult,Vacation,0
+7263,1,"Garcia, Miss. David James",female,42.7,0,0,2GA7RNI,123.18,D53,S,France,Engineer,1,1,D,Miss,Adult,Immigration,0
+5825,3,"Smith, Mrs. David Mary",female,51.9,0,1,18ZYRTD,19.87,,S,France,Nurse,2,0,Unknown,Mrs,Adult,Business,1
+24,1,"Murphy, Dr. David James",female,37.8,3,0,QCS1YJC,171.55,,C,England,Engineer,4,0,A,Dr,Adult,Vacation,0
+1454,1,"Khan, Dr. Anna Mary",female,11.0,1,0,Y7LO40S,90.16,,C,Italy,Doctor,2,0,A,Dr,Child,Vacation,1
+1685,3,"Smith, Mr. Ali Ali",male,40.6,3,2,3PNLNPZ,17.8,,S,Finland,Engineer,6,0,Unknown,Mr,Adult,Immigration,0
+2311,3,"Smith, Mr. Emma Emma",male,12.2,1,0,JZ3DUYE,17.53,,S,Germany,Merchant,2,0,Unknown,Mr,Child,Business,0
+9064,3,"Johnson, Dr. Emma Mary",male,33.5,0,2,U5IDRG5,23.05,,Q,France,Teacher,3,0,Unknown,Dr,Adult,Vacation,0
+9407,1,"Murphy, Miss. John Mary",female,36.8,3,1,WO2EQOK,160.43,,S,Germany,Labourer,5,0,E,Miss,Adult,Family Visit,1
+382,3,"Murphy, Mrs. David Mary",female,44.6,2,2,J4BUPGN,33.71,,C,Germany,Engineer,5,0,Unknown,Mrs,Adult,Immigration,0
+5815,1,"Patel, Miss. David Anna",female,54.8,1,1,F6I9T4T,120.14,A48,C,USA,Student,3,0,A,Miss,Adult,Family Visit,1
+5551,3,"Johnson, Mr. Anna James",male,6.9,0,1,ETCWS86,24.05,,C,Lebanon,Nurse,2,0,Unknown,Mr,Child,Vacation,1
+9309,3,"Garcia, Master. Emma Mary",male,28.6,3,1,8PNAN0G,39.38,,C,France,Merchant,5,0,Unknown,Master,Adult,Immigration,0
+1619,1,"Lee, Mr. Raj David",male,46.6,0,1,3LXZCBO,182.71,,S,Lebanon,Engineer,2,0,F,Mr,Adult,Family Visit,1
+790,2,"Johnson, Mrs. John Ali",female,41.5,2,0,GT4PANB,73.69,,S,Italy,Doctor,3,0,F,Mrs,Adult,Family Visit,1
+5984,1,"Patel, Miss. John James",female,24.5,1,2,DTFTAM9,118.97,,S,Lebanon,Doctor,4,0,Unknown,Miss,Adult,Immigration,1
+8673,2,"Murphy, Dr. Ali Emma",male,51.6,2,1,6N1CTOX,52.26,D42,S,France,Doctor,4,0,D,Dr,Adult,Immigration,0
+4476,1,"Murphy, Dr. Raj Anna",female,46.6,2,1,NXQ31II,114.94,C42,S,USA,Businessman,4,0,C,Dr,Adult,Family Visit,0
+5607,3,"Brown, Dr. Ali Raj",male,15.5,2,1,5XSN1RC,31.8,,S,Sweden,Clerk,4,0,Unknown,Dr,Teen,Business,0
+9313,2,"Murphy, Dr. John John",female,46.3,2,1,HJ0F4Z0,45.55,,S,Germany,Seamstress,4,0,A,Dr,Adult,Business,0
+5649,3,"Smith, Miss. Ali Emma",female,20.5,2,1,GUDFWR8,29.43,,C,Italy,Nurse,4,0,Unknown,Miss,Adult,Immigration,0
+6217,3,"Garcia, Miss. John Ali",female,19.0,2,0,9XX6SH6,30.54,,S,England,Student,3,0,Unknown,Miss,Teen,Immigration,0
+2287,3,"Lee, Mr. James Emma",male,28.3,1,0,N35EJ0K,12.24,,S,Lebanon,Seamstress,2,0,Unknown,Mr,Adult,Family Visit,1
+9994,2,"Lee, Dr. David James",female,62.6,2,2,34YDTSB,15.22,,C,Lebanon,Businessman,5,0,C,Dr,Senior,Immigration,1
+7579,1,"Singh, Dr. Emma David",male,12.3,2,0,945K6UH,125.87,E19,S,France,Engineer,3,0,E,Dr,Child,Business,0
+1184,3,"Johnson, Master. Mary Mary",male,35.9,2,2,RYDTHP2,17.18,,S,USA,Engineer,5,0,Unknown,Master,Adult,Immigration,0
+6002,1,"Smith, Dr. David John",male,20.9,1,0,6M3ZI4I,93.9,,C,Italy,Seamstress,2,0,B,Dr,Adult,Vacation,0
+5091,3,"Johnson, Mrs. John Mary",female,10.0,2,1,AZF6GU7,17.18,,S,India,Labourer,4,0,Unknown,Mrs,Child,Family Visit,1
+2517,1,"Martin, Mrs. Emma John",female,49.0,0,2,8XQ3CND,96.1,,S,Lebanon,Merchant,3,0,Unknown,Mrs,Adult,Family Visit,1
+4123,3,"Singh, Miss. Anna David",female,35.7,2,2,TWHX83K,6.79,,S,Lebanon,Businessman,5,0,Unknown,Miss,Adult,Immigration,1
+5522,3,"Lee, Master. David David",male,17.5,1,0,48V4F5V,23.22,,C,India,Labourer,2,0,Unknown,Master,Teen,Business,0
+5628,3,"Garcia, Master. James Ali",male,27.1,3,2,D2L74D3,21.09,,S,USA,Labourer,6,0,Unknown,Master,Adult,Vacation,0
+8361,3,"Murphy, Mrs. David James",female,34.4,0,1,Y1F0DPQ,26.63,,C,USA,Labourer,2,0,Unknown,Mrs,Adult,Family Visit,0
+5873,3,"Murphy, Master. Emma Mary",male,31.3,3,1,LF4HRNP,38.35,,S,Finland,Student,5,0,Unknown,Master,Adult,Immigration,0
+8613,3,"Khan, Dr. Emma James",male,34.5,3,1,FHJ5QEF,19.79,,S,Finland,Businessman,5,0,Unknown,Dr,Adult,Family Visit,0
+7728,3,"Smith, Master. Anna David",male,46.4,2,1,6FCCK88,18.34,,C,India,Engineer,4,0,Unknown,Master,Adult,Family Visit,0
+5969,2,"Murphy, Dr. Anna Raj",male,22.5,1,1,E5NZGG9,65.34,G136,S,Finland,Businessman,3,0,G,Dr,Adult,Immigration,0
+1181,3,"Garcia, Master. Raj James",male,47.8,0,2,OU8MR67,13.0,,S,India,Seamstress,3,0,Unknown,Master,Adult,Vacation,0
+8763,3,"Patel, Master. Raj James",male,45.8,0,1,4BVO65T,15.3,,S,England,Seamstress,2,0,Unknown,Master,Adult,Family Visit,0
+8236,2,"Singh, Master. James Emma",male,40.4,0,1,HCZSPEH,53.87,,C,USA,Merchant,2,0,E,Master,Adult,Business,0
+2819,1,"Murphy, Mrs. Raj James",female,31.3,3,1,BV6U1M0,123.82,,Q,England,Clerk,5,0,D,Mrs,Adult,Family Visit,0
+9965,1,"Patel, Mrs. Emma Mary",female,45.1,3,1,6EKUUH3,163.21,G13,C,France,Seamstress,5,0,G,Mrs,Adult,Family Visit,1
+8704,1,"Garcia, Dr. Anna Ali",male,14.9,0,0,5GXS9KX,167.88,C112,S,Finland,Clerk,1,1,C,Dr,Teen,Business,0
+6609,3,"Khan, Dr. John Raj",female,23.0,2,2,IW54MGQ,20.65,,C,France,Doctor,5,0,Unknown,Dr,Adult,Immigration,0
+2821,3,"Smith, Mr. Raj Ali",male,11.5,3,2,CCP3ABQ,39.52,,S,Germany,Engineer,6,0,Unknown,Mr,Child,Family Visit,1
+7536,3,"Khan, Miss. Ali James",female,22.1,0,1,77X9ZQG,25.45,,C,Finland,Businessman,2,0,Unknown,Miss,Adult,Immigration,1
+2261,3,"Murphy, Miss. Raj Mary",female,54.5,3,0,J13WHZV,17.59,,S,India,Labourer,4,0,Unknown,Miss,Adult,Business,0
+2240,3,"Singh, Miss. David Anna",female,3.0,0,2,DIL8XW4,39.62,,S,Germany,Clerk,3,0,Unknown,Miss,Child,Vacation,0
+6022,2,"Patel, Mr. Mary Emma",male,41.7,0,2,0A51LB4,35.97,,S,Italy,Student,3,0,Unknown,Mr,Adult,Family Visit,1
+783,2,"Khan, Mrs. James John",female,36.5,1,1,1T285XU,62.08,,S,Finland,Labourer,3,0,B,Mrs,Adult,Immigration,0
+933,3,"Patel, Dr. John James",female,20.5,3,2,MGD9IWR,37.45,,S,USA,Seamstress,6,0,Unknown,Dr,Adult,Vacation,0
+6203,3,"Khan, Master. Emma Raj",male,63.2,2,1,0B1RJUQ,12.36,,S,Germany,Doctor,4,0,Unknown,Master,Senior,Family Visit,1
+2413,2,"Garcia, Master. Raj John",male,25.6,0,0,JDRINNI,19.37,,Q,Italy,Engineer,1,1,Unknown,Master,Adult,Business,0
+6998,3,"Singh, Miss. Ali David",female,21.1,1,0,AY8O4YU,26.01,,C,France,Businessman,2,0,Unknown,Miss,Adult,Family Visit,0
+9116,3,"Murphy, Dr. Emma David",male,53.8,0,1,9A8UXFN,8.48,,S,France,Teacher,2,0,Unknown,Dr,Adult,Vacation,0
+1157,3,"Khan, Mrs. Ali David",female,25.5,1,1,D0FYVXF,39.89,,C,Ireland,Clerk,3,0,Unknown,Mrs,Adult,Family Visit,1
+8108,3,"Smith, Mr. Anna James",male,19.9,1,2,J2DOSE7,19.18,,S,Germany,Labourer,4,0,Unknown,Mr,Teen,Family Visit,0
+5806,3,"Murphy, Mr. Mary James",male,35.4,3,0,2WVMR13,36.55,,C,Germany,Student,4,0,Unknown,Mr,Adult,Immigration,0
+4880,3,"Singh, Miss. John Mary",female,38.7,3,1,SYL17UI,9.5,,S,Italy,Student,5,0,Unknown,Miss,Adult,Immigration,0
+3310,3,"Martin, Mrs. Raj Mary",female,6.4,2,0,DTATDAF,23.06,,S,Ireland,Engineer,3,0,Unknown,Mrs,Child,Family Visit,1
+8962,3,"Garcia, Miss. David David",female,0.5,2,0,UBKZSGP,30.9,,C,Finland,Merchant,3,0,Unknown,Miss,Child,Business,1
+1703,3,"Johnson, Mrs. John Anna",female,33.5,3,0,ZZUO50M,10.69,,S,England,Clerk,4,0,Unknown,Mrs,Adult,Business,1
+2493,3,"Lee, Miss. Emma Raj",female,40.1,0,1,X59Q2QP,27.81,,S,England,Clerk,2,0,Unknown,Miss,Adult,Business,1
+3707,1,"Johnson, Dr. David Emma",male,24.0,3,0,ORFS19B,67.42,D113,S,USA,Student,4,0,D,Dr,Adult,Business,0
+8277,3,"Martin, Mrs. Ali David",female,30.3,0,0,IBI8JAI,39.96,,C,Italy,Labourer,1,1,Unknown,Mrs,Adult,Family Visit,1
+287,1,"Garcia, Dr. Emma John",male,24.7,1,1,KM216ET,88.15,D99,S,Germany,Engineer,3,0,D,Dr,Adult,Family Visit,0
+1609,3,"Patel, Master. James John",male,21.5,2,1,9RD68IZ,32.45,,Q,USA,Businessman,4,0,Unknown,Master,Adult,Vacation,0
+6632,1,"Smith, Master. Emma Mary",male,16.3,2,2,OYOVXXV,113.58,,S,Sweden,Student,5,0,E,Master,Teen,Vacation,0
+8279,3,"Khan, Dr. Mary John",female,56.0,3,0,0HKE7O9,6.22,,Q,Germany,Labourer,4,0,Unknown,Dr,Adult,Business,1
+7316,3,"Smith, Miss. Emma Anna",female,16.4,1,2,H171RMN,29.52,,S,France,Seamstress,4,0,Unknown,Miss,Teen,Business,0
+2253,1,"Patel, Miss. Raj Ali",female,18.3,0,0,3AR04PB,160.59,,S,Lebanon,Engineer,1,1,C,Miss,Teen,Immigration,1
+7416,2,"Johnson, Mr. Raj John",male,26.1,3,2,YMCHD7A,27.13,G47,S,Lebanon,Nurse,6,0,G,Mr,Adult,Family Visit,0
+8366,3,"Singh, Master. Mary David",male,22.7,1,1,NVHEXP2,11.83,,S,Ireland,Nurse,3,0,Unknown,Master,Adult,Business,0
+1892,3,"Garcia, Dr. James John",female,7.6,3,0,X07BETN,11.22,,S,Finland,Clerk,4,0,Unknown,Dr,Child,Immigration,1
+5063,1,"Martin, Dr. John Mary",male,11.3,3,2,ERNIXIH,119.88,,S,USA,Labourer,6,0,C,Dr,Child,Vacation,1
+6121,2,"Johnson, Dr. John Anna",male,35.1,3,2,DI7N5UT,38.98,,S,India,Businessman,6,0,Unknown,Dr,Adult,Business,0
+564,2,"Smith, Mrs. Ali Ali",female,29.0,2,2,ZUVZXHY,28.57,G91,S,Finland,Labourer,5,0,G,Mrs,Adult,Immigration,0
+292,3,"Murphy, Mr. Emma David",male,20.4,2,0,SW9JPSZ,16.81,,C,Italy,Businessman,3,0,Unknown,Mr,Adult,Immigration,0
+4717,2,"Johnson, Miss. Mary Ali",female,38.7,2,0,ZLZAKV9,72.4,D111,C,France,Student,3,0,D,Miss,Adult,Immigration,1
+7709,3,"Smith, Mrs. Mary David",female,37.6,2,1,8JEX6IT,25.16,,S,Sweden,Merchant,4,0,Unknown,Mrs,Adult,Immigration,1
+6350,3,"Khan, Dr. Emma Mary",male,38.7,0,2,B523QBZ,30.37,,S,Italy,Clerk,3,0,Unknown,Dr,Adult,Immigration,0
+170,2,"Lee, Dr. Anna Anna",female,45.0,0,2,TCYK4ZO,55.66,G127,S,Lebanon,Nurse,3,0,G,Dr,Adult,Family Visit,1
+268,3,"Brown, Mrs. John Anna",female,22.8,1,0,NT96VBH,20.09,,S,Finland,Engineer,2,0,Unknown,Mrs,Adult,Immigration,1
+4639,1,"Patel, Master. James David",male,21.7,2,2,VUB6NIQ,131.21,E33,S,Italy,Nurse,5,0,E,Master,Adult,Business,0
+7078,1,"Brown, Mrs. Emma Emma",female,32.6,0,2,MCX57CT,52.4,,S,Sweden,Nurse,3,0,Unknown,Mrs,Adult,Business,1
+3356,3,"Lee, Master. Mary John",male,31.1,0,1,A2FLUBW,13.88,,Q,USA,Labourer,2,0,Unknown,Master,Adult,Family Visit,0
+8280,1,"Khan, Dr. David John",female,24.4,0,1,CSBHMUJ,183.4,,S,USA,Businessman,2,0,D,Dr,Adult,Family Visit,0
+316,2,"Smith, Master. Anna James",male,41.8,0,0,S99PDJ2,42.98,,Q,Finland,Teacher,1,1,Unknown,Master,Adult,Business,0
+6729,3,"Smith, Master. Anna David",male,28.5,2,1,ADJGXTR,23.66,,S,Sweden,Teacher,4,0,Unknown,Master,Adult,Immigration,0
+9496,2,"Smith, Master. Anna Anna",male,24.1,0,0,160Y2KR,45.48,,S,USA,Teacher,1,1,B,Master,Adult,Vacation,0
+4068,3,"Garcia, Dr. Anna David",male,25.0,3,1,T74MP9D,36.56,,S,Finland,Nurse,5,0,Unknown,Dr,Adult,Immigration,0
+246,2,"Smith, Mr. Anna John",male,22.5,1,1,88UJRQA,51.45,,C,Italy,Teacher,3,0,Unknown,Mr,Adult,Immigration,0
+253,1,"Lee, Mr. David David",male,28.6,0,0,4DEFCBX,172.04,,Q,Germany,Teacher,1,1,Unknown,Mr,Adult,Vacation,1
+1112,3,"Smith, Dr. Raj Mary",female,31.1,1,1,UJRCDQM,12.19,,S,Germany,Labourer,3,0,Unknown,Dr,Adult,Immigration,1
+4802,3,"Murphy, Mrs. Emma David",female,35.9,0,2,4V4U2U9,25.25,,S,India,Student,3,0,Unknown,Mrs,Adult,Immigration,0
+1714,1,"Patel, Dr. James Mary",male,15.6,1,0,D31XH4X,176.57,,S,Sweden,Labourer,2,0,C,Dr,Teen,Family Visit,0
+51,1,"Johnson, Mrs. Ali David",female,22.5,0,2,MUHF66G,95.35,B55,Q,Germany,Labourer,3,0,B,Mrs,Adult,Immigration,1
+1836,3,"Garcia, Miss. Emma David",female,31.1,1,2,5YE98B1,25.81,,S,Lebanon,Teacher,4,0,Unknown,Miss,Adult,Vacation,0
+7897,3,"Lee, Master. James Mary",male,19.7,3,1,8WX7T5G,28.6,,S,France,Nurse,5,0,Unknown,Master,Teen,Family Visit,0
+3384,3,"Smith, Mrs. Emma Emma",female,32.3,2,0,1MV8G85,7.92,,S,England,Labourer,3,0,Unknown,Mrs,Adult,Family Visit,0
+6411,2,"Garcia, Mrs. James Ali",female,40.4,1,1,Y7U9Q4N,67.82,,S,India,Merchant,3,0,Unknown,Mrs,Adult,Vacation,1
+4314,2,"Garcia, Mr. John Raj",male,36.6,0,0,7M0M78B,15.99,,S,Lebanon,Teacher,1,1,C,Mr,Adult,Vacation,0
+873,3,"Johnson, Mrs. Ali David",female,6.4,3,2,5ZJVQZ1,9.46,,S,Finland,Clerk,6,0,Unknown,Mrs,Child,Vacation,1
+1255,2,"Smith, Dr. David Raj",male,30.1,3,2,Y7HHQF3,55.94,B12,S,Ireland,Teacher,6,0,B,Dr,Adult,Business,0
+8882,3,"Johnson, Mr. James James",male,35.0,1,1,K2J1MY4,31.45,,S,Ireland,Student,3,0,Unknown,Mr,Adult,Family Visit,0
+5852,3,"Johnson, Mrs. Anna James",female,12.6,2,2,EM48LI3,20.56,,S,Lebanon,Engineer,5,0,Unknown,Mrs,Child,Immigration,1
+5703,3,"Singh, Dr. James James",male,13.6,2,1,46NACIW,7.53,,S,Finland,Businessman,4,0,Unknown,Dr,Teen,Family Visit,0
+8104,1,"Garcia, Master. Mary Ali",male,26.9,1,0,T9VLLAF,122.25,,S,Sweden,Engineer,2,0,Unknown,Master,Adult,Immigration,0
+2099,2,"Khan, Mr. Mary Ali",male,17.6,0,2,62RV221,74.44,,S,England,Student,3,0,A,Mr,Teen,Vacation,0
+5129,3,"Brown, Mrs. David John",female,28.5,2,2,EGW77HU,39.45,,S,Lebanon,Merchant,5,0,Unknown,Mrs,Adult,Immigration,0
+249,3,"Brown, Miss. Mary John",female,35.3,3,0,MN3CP4D,32.78,,S,France,Merchant,4,0,Unknown,Miss,Adult,Family Visit,1
+6562,3,"Lee, Miss. David Anna",female,12.7,2,2,LFNR8GF,14.39,,S,USA,Teacher,5,0,Unknown,Miss,Child,Immigration,1
+1340,3,"Johnson, Dr. Emma Raj",female,52.0,0,0,1E5E025,8.71,,S,India,Nurse,1,1,Unknown,Dr,Adult,Business,1
+7018,3,"Khan, Dr. David Raj",female,28.7,3,2,LY1MZKU,29.68,,S,Lebanon,Doctor,6,0,Unknown,Dr,Adult,Immigration,1
+2111,3,"Martin, Mrs. Raj Raj",female,19.0,1,2,P4A8Q01,36.67,,S,Lebanon,Seamstress,4,0,Unknown,Mrs,Teen,Family Visit,1
+1570,3,"Patel, Mrs. John Anna",female,30.9,2,1,YHYHAOR,5.08,,S,England,Labourer,4,0,Unknown,Mrs,Adult,Family Visit,1
+1727,3,"Murphy, Mr. James John",male,30.5,3,0,J1P5F6V,39.31,,C,USA,Clerk,4,0,Unknown,Mr,Adult,Business,0
+8385,1,"Patel, Mr. Anna James",male,23.0,1,2,TZT58A9,193.51,,S,Italy,Student,4,0,C,Mr,Adult,Immigration,0
+6941,3,"Murphy, Master. James James",male,22.2,3,2,1CIJ4QB,15.37,,C,Lebanon,Clerk,6,0,Unknown,Master,Adult,Business,1
+4396,1,"Smith, Mrs. Ali James",female,46.8,0,0,FORNCO8,111.58,F148,S,USA,Nurse,1,1,F,Mrs,Adult,Business,0
+2421,1,"Khan, Dr. Raj Anna",male,33.9,1,0,088QJKX,171.8,,S,England,Seamstress,2,0,Unknown,Dr,Adult,Vacation,0
+3046,3,"Martin, Miss. Emma David",female,20.3,0,0,C9TNRVA,13.73,,S,Italy,Nurse,1,1,Unknown,Miss,Adult,Immigration,1
+5504,2,"Smith, Mr. Ali Ali",male,15.7,3,2,OJBNTAG,61.49,,S,India,Engineer,6,0,D,Mr,Teen,Family Visit,0
+3704,2,"Martin, Mrs. Emma James",female,40.4,1,2,WTDE2UU,73.99,,C,Ireland,Labourer,4,0,Unknown,Mrs,Adult,Immigration,0
+8192,3,"Khan, Mr. James Anna",male,25.1,2,2,EUVTJSO,22.46,,Q,France,Engineer,5,0,Unknown,Mr,Adult,Immigration,0
+5332,3,"Brown, Master. Ali Ali",male,31.5,1,1,RV5YP0V,35.07,,S,Finland,Seamstress,3,0,Unknown,Master,Adult,Immigration,0
+9809,2,"Brown, Mr. Emma Anna",male,34.0,1,2,A8IDGG7,50.31,F96,S,Italy,Labourer,4,0,F,Mr,Adult,Vacation,1
+448,3,"Brown, Mrs. James Ali",female,35.0,0,1,NK7HBLA,34.02,,S,USA,Nurse,2,0,Unknown,Mrs,Adult,Vacation,0
+7895,3,"Murphy, Master. Ali Emma",male,55.9,2,2,5CY7I45,12.06,,S,Finland,Seamstress,5,0,Unknown,Master,Adult,Immigration,0
+8729,3,"Patel, Mrs. Anna Mary",female,59.2,2,2,FH1XJO0,31.99,,S,USA,Seamstress,5,0,Unknown,Mrs,Adult,Business,1
+7829,3,"Khan, Master. David David",male,64.6,0,1,RX5GJYG,5.45,,C,Finland,Seamstress,2,0,Unknown,Master,Senior,Business,0
+1769,3,"Martin, Dr. Raj Ali",male,29.0,3,2,Y4KKZC1,15.63,,C,Lebanon,Doctor,6,0,Unknown,Dr,Adult,Vacation,0
+6809,3,"Singh, Miss. David Ali",female,26.4,2,1,FLTTMQ7,30.68,,Q,USA,Doctor,4,0,Unknown,Miss,Adult,Vacation,1
+4705,3,"Brown, Mr. Mary Mary",male,31.1,0,2,DT4EKRL,35.53,,S,France,Businessman,3,0,Unknown,Mr,Adult,Vacation,0
+3870,3,"Brown, Dr. James Mary",male,0.5,0,1,K4WKRJF,10.1,,C,Finland,Merchant,2,0,Unknown,Dr,Child,Immigration,0
+1656,2,"Khan, Master. Ali John",male,42.3,3,0,PSHPGIZ,19.72,,S,England,Seamstress,4,0,B,Master,Adult,Business,0
+3188,3,"Murphy, Miss. Mary David",female,38.3,3,2,W0PQQID,27.9,,Q,France,Businessman,6,0,Unknown,Miss,Adult,Business,1
+684,3,"Singh, Mrs. Raj Ali",female,24.1,1,0,N7UAGFR,36.32,,S,Sweden,Student,2,0,Unknown,Mrs,Adult,Immigration,0
+4171,1,"Martin, Mr. James John",male,22.4,1,2,17DGZ4W,61.53,G95,S,India,Teacher,4,0,G,Mr,Adult,Immigration,1
+4478,3,"Johnson, Dr. John Mary",female,12.0,2,0,NHYEC17,21.02,,C,England,Doctor,3,0,Unknown,Dr,Child,Immigration,0
+462,1,"Khan, Master. John James",male,40.3,0,2,OKGMVYP,108.8,B51,C,France,Seamstress,3,0,B,Master,Adult,Business,0
+5765,2,"Garcia, Dr. James James",male,60.5,3,1,XMFUKXX,51.51,C26,S,Italy,Student,5,0,C,Dr,Senior,Business,0
+7523,2,"Smith, Master. James James",male,48.6,0,0,XTIZ6T2,15.25,A5,S,Lebanon,Doctor,1,1,A,Master,Adult,Immigration,1
+4503,1,"Garcia, Mr. Emma Mary",male,37.5,2,1,ZW8L96J,116.62,,Q,Ireland,Labourer,4,0,Unknown,Mr,Adult,Immigration,1
+9710,3,"Brown, Mrs. David Raj",female,59.0,1,1,2FQPDF1,24.75,,C,USA,Seamstress,3,0,Unknown,Mrs,Adult,Immigration,0
+319,3,"Lee, Mr. Mary Raj",male,40.7,2,1,TK30Z00,26.86,,S,Sweden,Labourer,4,0,Unknown,Mr,Adult,Vacation,0
+1146,3,"Smith, Dr. John John",male,15.1,1,1,N2DAMGN,5.26,,S,Lebanon,Labourer,3,0,Unknown,Dr,Teen,Business,0
+5095,2,"Lee, Master. Anna Ali",male,27.7,0,2,GBPB5V6,77.56,,S,Lebanon,Nurse,3,0,D,Master,Adult,Business,0
+1394,3,"Martin, Mr. Raj David",male,17.2,2,1,H9AQXXR,37.15,,S,Germany,Seamstress,4,0,Unknown,Mr,Teen,Family Visit,1
+6624,2,"Khan, Master. Raj Ali",male,56.2,2,1,K7VX5XG,38.32,,C,Italy,Nurse,4,0,C,Master,Adult,Business,0
+1502,3,"Lee, Master. Ali Emma",male,20.8,0,1,5RQMJO0,30.33,,S,Sweden,Seamstress,2,0,Unknown,Master,Adult,Vacation,0
+6409,3,"Smith, Mr. Mary Anna",male,34.4,3,1,DFTAX9O,23.87,,S,Sweden,Doctor,5,0,Unknown,Mr,Adult,Business,0
+377,1,"Singh, Dr. Ali Ali",female,31.6,0,0,TP13VS2,146.95,G79,C,England,Teacher,1,1,G,Dr,Adult,Immigration,1
+411,3,"Brown, Mr. Ali David",male,20.6,2,1,8P3486C,39.29,,S,Germany,Businessman,4,0,Unknown,Mr,Adult,Business,0
+1661,1,"Khan, Master. David David",male,56.7,3,0,BM0EFRM,86.05,,Q,England,Labourer,4,0,B,Master,Adult,Family Visit,0
+3152,1,"Brown, Master. Anna John",male,39.2,1,1,7LTOVT5,127.95,,C,Lebanon,Doctor,3,0,B,Master,Adult,Immigration,0
+1624,1,"Patel, Dr. Raj Emma",female,12.6,1,2,MWW11SE,190.35,,C,Ireland,Student,4,0,F,Dr,Child,Vacation,1
+5610,3,"Murphy, Dr. Anna David",female,36.5,0,0,ZRJQYYT,25.17,,S,Ireland,Labourer,1,1,Unknown,Dr,Adult,Immigration,1
+8533,3,"Smith, Dr. James Anna",male,24.6,1,1,BO47GC7,34.98,,Q,England,Doctor,3,0,Unknown,Dr,Adult,Vacation,0
+5803,1,"Patel, Mr. David James",male,30.1,3,2,544YNBC,78.56,,S,France,Doctor,6,0,Unknown,Mr,Adult,Vacation,1
+5307,2,"Patel, Dr. Raj David",female,34.2,2,2,FCDCZRR,21.65,A48,C,Italy,Merchant,5,0,A,Dr,Adult,Business,1
+7087,1,"Garcia, Master. John Anna",male,44.9,0,0,MK9TQ03,116.99,D139,C,Italy,Seamstress,1,1,D,Master,Adult,Family Visit,1
+8898,3,"Garcia, Dr. James Ali",male,17.1,3,2,V31NWDB,38.79,,S,India,Engineer,6,0,Unknown,Dr,Teen,Family Visit,0
+7489,1,"Brown, Dr. Anna John",male,20.9,1,2,VKE2645,198.72,,Q,Ireland,Student,4,0,A,Dr,Adult,Family Visit,0
+9616,3,"Martin, Mr. David Anna",male,32.9,1,2,IPKIBMW,28.29,,S,Finland,Engineer,4,0,Unknown,Mr,Adult,Family Visit,0
+9218,1,"Singh, Dr. Anna Anna",female,30.3,1,0,QHTKXGM,166.17,,S,France,Nurse,2,0,A,Dr,Adult,Immigration,1
+1673,3,"Smith, Dr. Raj Ali",female,43.4,0,1,K9FKYWQ,12.44,,S,Sweden,Engineer,2,0,Unknown,Dr,Adult,Family Visit,0
+2359,2,"Johnson, Mr. Raj David",male,40.5,2,0,IAB1E1I,46.43,,S,Finland,Engineer,3,0,Unknown,Mr,Adult,Vacation,0
+8468,3,"Singh, Mrs. John Ali",female,4.6,3,1,DXVM10G,22.43,,C,Italy,Merchant,5,0,Unknown,Mrs,Child,Family Visit,1
+275,3,"Singh, Dr. Anna David",male,54.2,1,1,5YHNFYO,36.27,,S,Ireland,Businessman,3,0,Unknown,Dr,Adult,Vacation,1
+2474,1,"Khan, Mr. James James",male,42.7,0,1,6FA9HLQ,185.55,,S,Sweden,Businessman,2,0,Unknown,Mr,Adult,Family Visit,0
+5490,2,"Johnson, Dr. David David",female,38.4,2,2,INPGLBY,32.69,B138,S,France,Doctor,5,0,B,Dr,Adult,Immigration,1
+4772,3,"Martin, Miss. Mary Raj",female,11.0,2,1,X82MU11,15.09,,S,Sweden,Nurse,4,0,Unknown,Miss,Child,Immigration,1
+2108,3,"Murphy, Mrs. Anna James",female,47.7,1,2,UDQFEOV,5.16,,S,England,Businessman,4,0,Unknown,Mrs,Adult,Family Visit,1
+7501,3,"Martin, Mrs. Emma Emma",female,39.6,3,2,5Z3S3KB,39.97,,S,England,Clerk,6,0,Unknown,Mrs,Adult,Vacation,1
+4415,3,"Singh, Miss. John Raj",female,11.0,3,1,BZ85BEW,6.88,,Q,USA,Clerk,5,0,Unknown,Miss,Child,Business,1
+8139,1,"Brown, Miss. James Anna",female,36.8,1,1,38ZY451,163.04,,C,USA,Clerk,3,0,Unknown,Miss,Adult,Business,1
+8661,1,"Johnson, Mrs. David David",female,31.7,3,2,4IIOLNW,184.32,,S,England,Student,6,0,G,Mrs,Adult,Immigration,1
+8240,3,"Johnson, Dr. John Raj",female,19.1,2,1,T1ONDFQ,39.54,,C,Sweden,Labourer,4,0,Unknown,Dr,Teen,Vacation,0
+2418,3,"Johnson, Mr. Raj Ali",male,21.2,0,1,S5OXGK6,12.1,,S,Italy,Student,2,0,Unknown,Mr,Adult,Vacation,0
+8772,3,"Garcia, Master. Ali Mary",male,14.6,2,2,GX6ARU2,22.4,,S,Italy,Labourer,5,0,Unknown,Master,Teen,Business,0
+2237,3,"Singh, Master. James Raj",male,48.8,0,2,9RIL2WY,27.51,,S,England,Seamstress,3,0,Unknown,Master,Adult,Vacation,1
+3768,3,"Johnson, Dr. Ali John",male,40.1,3,1,XM62P5U,14.0,,S,USA,Seamstress,5,0,Unknown,Dr,Adult,Vacation,0
+9792,3,"Khan, Dr. Mary Anna",male,18.3,2,0,99HX457,25.98,,S,Germany,Labourer,3,0,Unknown,Dr,Teen,Immigration,0
+9990,1,"Patel, Dr. James Ali",female,53.2,1,0,9XODPPV,155.49,B147,S,England,Teacher,2,0,B,Dr,Adult,Immigration,1
+9966,3,"Brown, Miss. David Raj",female,50.8,2,1,WGZJYNL,23.33,,S,Germany,Clerk,4,0,Unknown,Miss,Adult,Immigration,0
+7324,3,"Martin, Dr. Mary Ali",female,7.1,0,2,41U41HD,5.69,,C,USA,Teacher,3,0,Unknown,Dr,Child,Business,1
+1384,3,"Smith, Master. John Ali",male,24.3,3,1,DNQUQGO,26.9,,S,Sweden,Merchant,5,0,Unknown,Master,Adult,Immigration,0
+3102,3,"Garcia, Dr. Ali Ali",male,42.0,1,1,7KOWQJJ,20.7,,S,Finland,Clerk,3,0,Unknown,Dr,Adult,Immigration,0
+3922,2,"Smith, Master. David John",male,26.3,1,1,NO6F3Q4,35.35,,S,Lebanon,Merchant,3,0,D,Master,Adult,Family Visit,0
+6686,3,"Patel, Master. Mary James",male,39.2,2,0,7VJIWRQ,10.52,,S,Finland,Student,3,0,Unknown,Master,Adult,Vacation,0
+3195,3,"Patel, Dr. Anna John",male,10.8,0,1,2TF0169,12.85,,C,Finland,Merchant,2,0,Unknown,Dr,Child,Family Visit,0
+1942,3,"Khan, Mrs. David John",female,38.5,1,1,5ZXIO5E,38.16,,C,Italy,Labourer,3,0,Unknown,Mrs,Adult,Business,1
+7714,3,"Khan, Miss. Emma Mary",female,30.2,3,2,OM5JFLF,7.4,,C,England,Businessman,6,0,Unknown,Miss,Adult,Family Visit,1
